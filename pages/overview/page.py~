@@ -1,0 +1,17 @@
+from dash import html
+
+
+styles = {
+    'pre': {
+        'border': 'thin lightgrey solid',
+        'overflowX': 'scroll'
+    }
+}
+
+
+overview_layout = html.Div(
+    children=[
+        html.P(id="overview-starter"),
+        html.Store(id="overiview-store"),
+    ],
+)

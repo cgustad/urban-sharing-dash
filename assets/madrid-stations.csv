@@ -1,0 +1,629 @@
+meta_system_id,meta_station_id,name,short_name,external_id,address,latitude,longitude,is_charging_station,state,station_type
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_10JASGStIwqCjzNDrHNiDwzZ,67 - CaixaForum Madrid,67,1469,"Calle de Almadén, 38",40.4108472,-3.693225,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1T6kPGfkVasUck6efQ2KUCRy,630 - Calle de Febrero 4,630,2378,Calle de Febrero nº 4,40.446868,-3.573031,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1gK4NLSzsxoXd5GrFIbsx4uj,117 - Altamirano  - Martín de los Heros,117,1523,Calle Altamirano nº 24,40.4309797,-3.7188898000000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1va0UMnRi56qXiJ42W2QBmsm,466 - Villablanca - Vereda del Pinar,466,2266,Calle Villablanca 7,40.40894698,-3.6078326500000006,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1foGqiOBHf6Cg3wZzJQyGSnP,346 - Metro Empalme,346,2314,"Calle de Tembleque, 31",40.3907438,-3.7664844,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1NWPLm2dfYSWBqJYlQv2mH6X,"597 - Foresta, 8",597,2170,Calle de la Foresta nº8,40.49853277,-3.66777681,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1CJpbTuWNITiL8nwmYAImcdp,454 - Gran Vía del Sureste - Las Suertes,454,2191,"Calle Gran Via del Sureste, 22",40.3631604,-3.5897045000000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1RWNfbkaygVDdMC75aQScjjO,48 - Juan Sebastián Elcano,48,1452,Calle Juan Sebastián Elcano  2,40.4040433,-3.701321,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1g9qFJG1E5YYKRCpxIGsrSfI,"336 - Calle Oliva de Plasencia, 1",336,2166,"Calle Oliva de Plasencia, 1",40.37850071,-3.7791518300000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1D5BusJj8V0DWATlha4O9DQU,"382 -Parque Eugenia de Montijo, 2",382,2252,"Parque Eugenia de Montijo, 2",40.3783501,-3.7545821999999998,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1RSLRJeYkaE5pELt0rcyvh0x,589 - Monast. Silos - Monast. Montesclaros,589,2120,"Avenida Monasterio de Silos, 37",40.50340494,-3.70290315,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1GtfxHwk9AYdpUV5ylMrxxpr,411 - Estación de tren de Villaverde Alto,411,2327,"Calle Domingo Párraga, 38",40.3417533,-3.7118182999999996,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1444zxdUf3lw6NaNivBKkgXN,278 - Paseo los Pontones - Ps. Melancólicos,278,2299,"Paseo de los Pontones, 26",40.4040433,-3.7196,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Cw6TbhB4CEbCFl1H78YI1K7,141 - Plaza de Emilio Castelar,141,1547,Paseo de la Castellana nº 43,40.4354047,-3.6893917,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1yoixTrAEXpM8b2bPNziLDvb,425 - Ramón Perez Ayala - Pque. Cerro Tío Pío,425,2029,"Calle Ramón Pérez de Ayala, 40",40.40003472,-3.65381017,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_14qGHD7VKVn4fz2eQdujkRWw,56 - Plaza del Carmen,56,1460,"Calle Abada, 2",40.4190322,-3.7039032999999995,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1WtTPoLlPaici0XDmXeJnkl6,294 - Edificio Torres Blancas,294,2184,"Calle Clara del Rey, 17",40.440944,-3.6723389999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1FUmcx15hhHOUJrKc2DekKNX,155 - San Germán 57,155,1561,Calle San Germán nº 57,40.4573342300643,-3.700930190178302,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1yFfZD9GugRh1f9WCdfx8W3O,242 - Metro Parque de las Avenidas,242,1648,"Avenida De Bruselas, 56",40.439513,-3.6629280000000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1NeUzambSi61L5IoYs3DWMv9,296 - Costa Verde,296,1996,"Calle de la Costa Verde, 25-23",40.469477,-3.696862,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Gr2mcDL55v1Gj1ZnF0en9zN,236 - Paseo Imperial,236,1642,"Paseo Imperial, 31",40.4075794,-3.7170785,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Uwm47MInP63a7uDBs3K9h5V,401 - Estación de tren de Villaverde Bajo,401,2244,"Calle Eduardo Maristany, 7",40.353285,-3.6831269999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1hEPEUF8oUxGeLQHNEkpHTya,"488 - Ricardo Ortiz, 33",488,2036,"Calle Ricardo Ortiz, 33",40.42657032,-3.6579643900000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1gdII22EbDR4R3ZxpAFP8lUm,320 - Metro Lago,320,2297,"Paseo de la Puerta del Ángel, 10",40.4167792,-3.7345247000000006,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1rJSYoFCivXOi2U5eEBeOUKy,52 - Plaza de Santa Ana,52,1456,Plaza de Santa Ana nº 10,40.4144689,-3.7008558000000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1WLnn8aQkJvAjF47spgIboMG,188 - Puente de Ventas,188,1594,"Avenida de Daroca, 2",40.4312562,-3.6590286000000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1tR67xklBATfSVPbMWMW7jSf,57 - Santa Cruz de Marcenado,57,1461,Calle Santa Cruz del Marcenado nº 26,40.4295658,-3.7126299,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_169KNiOoFkQz327BG2f9T2ZN,26 - Plaza de las Salesas,26,1430,Plaza de las Salesas nº 2,40.4239,-3.6945,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1JHuR9pbck4Hfzm6bw98rzlY,496 - Cronos,496,1980,"Calle Cronos, 57",40.4384695,-3.6194333,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1BcHx3QR66SneUjI0NJZ6c1x,148 - Serrano 210,148,1554,Calle Serrano nº 210,40.451117,-3.6813971,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Ddwi7ttj1hOpFyg62ssvFdx,80A - Estación de Atocha A,80A,2274,Avenida Ciudad de Barcelona (esquina con Plaza de Carlos V),40.407573,-3.690538,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Ge7kJd6gCSnKUhYLJ9hdifE,479 - Metro Arturo Soria,479,1960,"Calle de Ángel Muñoz, 1",40.45478362295884,-3.655837131282797,false,inactive,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Jxb99fARWGEGgO17JVNVPTE,625 - Avenida de Miguel Delibes 49,625,2387,Avenida de Miguel Delibes 49,40.405505,-3.560344,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1pPPVnAhXZcmnQ0e3LoMUnGa,499 - Biblioteca Pública Municipal Canillejas,499,1983,"Calle Alcala, 590",40.4466561,-3.6121996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_10mb3sPIs7SCAbd56nE21d6o,"393 - Manuel Noya , 29",393,2033,"Calle Manuel Noya, 29",40.3853787,-3.7117979,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1xkF5rQdx9k0I6kunvvo4NZL,250 - Serrano - CSIC,250,1656,"Calle Serrano, 111",40.4406491,-3.6858096,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Fh3WUZZBzPM4G14fCzj4cvt,606 - Fermín Caballero - Sangenjo,606,2289,Calle Fermín Caballero 2,40.487363,-3.6984849999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1RsltT6j1Z5yK21l1PJAOjH2,465 - Cordel de Pavones - Bulevar José Prat,465,2324,"465 - Cordel de Pavones, 48",40.397375,-3.619645,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1NmKl8P3K5eK3zW9RcJhSrR5,280 - Ps de los Melancólicos - San Epifanio,280,2247,"Paseo de los Melancólicos, 73",40.401782,-3.7185689999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1z5HNLfMPEnTkvLAGbCuspcb,12 - San Hermenegildo,12,1416,Calle San Bernardo nº 85 - 87,40.4284667,-3.7061405999999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1YWZq3gBppVIBr1TfIWP7VdO,447 - Adolfo Bioy Casares - Las Suertes,447,2276,"Calle Adolfo Bioy Casares, 3",40.3668504,-3.5981935,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_12XDS8an6SxqbJhP49lj1brD,220 - Plaza del Encuentro,220,1626,"Calle Arroyo de las Pilillas, 2",40.406156,-3.651384,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_16m32t3MqAsFX7QncRLFITZB,347 - Est. tren Mtra Justa Freire-Poli Aluche,347,2315,"Avenida de las Aguilas, 27",40.383554,-3.7686029999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1OgbSo7Mwm2LLKLdjkX8ImNd,108 - Mártires Concepcionistas - Alcalá,108,1512,Calle Mártires Concepcionistas nº 2,40.427402,-3.6706519999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1WAXQ1Zubc2hemixVPb15SmA,"457 - Hacienda de Pavones, 148",457,2000,"Hacienda de Pavones, 148",40.4026,-3.6419,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1OieVk8wxwjKtdp1XGNDpWol,244 - Hospital Clínico San Carlos,244,1650,"Calle Isaac Peral, 42",40.44003,-3.71757,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1wW8B7MAx5azOcPriuPQxeyJ,620 - Calle Cazorla 79,620,2380,Calle Cazorla  79,40.376297,-3.6658859999999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1bi8DZs5ZDRzPTZXoZ3NvH3x,25B - Plaza de Celenque B,25B,1429,Plaza de Celenque nº 1,40.4173687,-3.7058976,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ycvttesGn4iMn0uqcUg8xuP,216 - Plaza de Puerta del Ángel,216,1622,"Plaza Puerta del Ángel, 3",40.4141,-3.72897,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1KnIN5nzQ3Jro8CX5JtfT3s4,491 - Esteban Collantes - José Arcones Gil,491,2065,Calle Esteban Collantes 63,40.432883,-3.6376629999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1VN0BIrZkz2L5yHcl5jMRtIO,195 - Indalecio Hernández - Mataelpino,195,1601,"Calle Mataelpino, 1",40.4392222,-3.6754444,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1k5nvDs9hSyytKgt1yB2LY3I,573 - Melchor Fernández Almagro - Villa Marín,573,2050,"Calle Melchor Fernandez Almagro, 16",40.47772776,-3.69962571,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_104C4FD7W9NJMtfgnk2YQyBT,"403 - Auñón, 16",403,2246,"Calle Auñón, 16",40.3504944,-3.6775241999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1SN8gu4vpOXcGqKQAmb5UsaT,116A - Plaza de España - Martín de los Heros,116A,1521,Plaza de España nº16,40.4236775,-3.7130447,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1IGx7HjbBGZx7kVLv8jrMO05,100 - Wizink Center,100,1503,Calle Goya nº 99,40.42478,-3.6738400000000007,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1bVbFgHLmauNPvN6eg2BoTrK,99 - Alcántara - Hermosilla,99,1502,"Calle Alcántara, 4",40.4260391,-3.6740178,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1nww6Vu7oaMwiRT1YJw50cG2,404 - Junta Municipal Distrito de Villaverde,404,2040,"Calle Arroyo Bueno, 53",40.349111,-3.7109850000000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1O4WwiqF0TZMKyzew2wrI2qK,629 - Avda de Fermina Sevillano 23,629,2379,Calle de Avda de Fermina Sevillano 23,40.44477,-3.568829,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1jWOIXpALCYiGI2Pdz9iDucW,160 - Metro Colombia,160,1566,"Calle Colombia, 11",40.4572466,-3.6763439,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_10Sb3k93sMy6Hfg6AJnSK4up,228 - San Delfín - Antonio López,228,1634,"Calle San Delfín, 10",40.39440607959559,-3.7080429728445568,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1zDF9vRIrnDPxIKz9hiZmM0l,23 - Santo Domingo,23,1426,Plaza de Santo Domingo nº 1,40.4202595,-3.708249,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_15DPThYen9CnpxfGuAgeoyLF,95 - Claudio Coello - Villanueva,95,1498,Calle Claudio Coello nº 19,40.4225428,-3.6869293000000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_12IRuM2cEomAGCtuobpi6eUz,333 - Illescas - Camarena,333,2132,"Calle Illescas, 80",40.392175,-3.7562323,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1puwnCejEPe6B8UR1iD2Ov99,"105 - Serrano, 46",105,1508,Calle Serrano nº 46,40.4270832,-3.6875418000000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1JXkpCP9o1RSWhuh9Ihwf6oq,605 - Nuria - Peña Sirio,605,2270,Calle Nuria nº24,40.491644,-3.7048829999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1U4IiZhCgUw0bzsPcVSDbp2D,"199 - Fernando el Católico, 61",199,1605,"Calle Fernando el Católico, 61",40.4343611,-3.7149166,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1XivNW1DyN8VWktrbJFtKI5m,458 - Metro Vinateros,458,2045,"Calle del Arroyo Belincoso, 26",40.40991083,-3.6525660400000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1mKTdED9Dwta0w1aiyPm2oOt,528 - Albelda - Torrelaguna,528,2316,"Calle Albelda, 6",40.4494225,-3.6573666,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1uTjwNYi1o4RAHgWSBPxqhST,EV JMD Carabanchel,8001,2405,"Calle de la Sombra, 6",40.3798462,-3.7413485,false,active,virtual
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Sr0ZqG5gkSl0A2uTRNqGkyf,157 - Plaza de Cuzco,157,2225,Paseo de la Castellana 164,40.4591366,-3.6894151,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1nie2AxagPUcfQe247u2Kyge,537 - Plaza López de la Plata,537,2130,"Avenida de Machupichu, 23",40.45841466,-3.6257943900000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1tfDKGdPIN88rpH9ltLU1D0v,358 - Verdad,358,2004,"Calle de la Verdad, 29",40.391787,-3.7171600000000002,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1UzD7N1KpbmJ5WWweZyySI70,384 - Metro Usera,384,1951,"Calle Amparo Usera, 46",40.38707469,-3.7061449,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1QNDzn3JuPivG8BEAg5HuXg0,356 - Portalegre - Tinamús,356,2048,"Calle Portalegre, 9",40.38937686,-3.72364769,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ZrIefJKzi5avvMp9pAjPmj9,38 - Plaza de los Carros,38,1442,Carrera de San Francisco enfrente del nº 2,40.4113586,-3.7115898000000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1TbkwbVJJTVZneTBXoMc6u7Q,616 - Alcalde Martín de Alzaga,616,2391,calle Alcalde Martín de Alzaga 11,40.462899,-3.7171950000000002,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_16RGnhxR76FbSiqmETChV5oT,104 - Castellana - Hermosilla,104,1507,Paseo de la Castellana nº 4,40.42677,-3.6895799999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1SddmKFal5tUs1Qbi0j80XSB,106B - Plaza de Colón B,106B,1510,Calle Serrano nº 32,40.424776,-3.6878899999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1sDi67YgMgPFdiwsVr3el9LK,186 - General Pardiñas - Don Ramón de la Cruz,186,1549,"Calle General Pardiñas, 58",40.4289804,-3.6783015999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1bydpsaCSryZOxrM5omAhpiE,435 - San Claudio,435,2078,"Calle San Claudio, 150",40.38902883,-3.63953994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1uyy5A8lZdOva7J7Bh6RXTuK,"451 -  La Granja de San Ildefonso, 14",451,2188,"Calle Granja de San Idelfonso, 14",40.36813427,-3.62283116,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ZedjS2enseJroccHGsmcuPO,249 - Castellana - Cuatro Torres,249,1655,"Calle Manuel Caldeiro, 1",40.47645878644506,-3.685419182838061,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1MSFzmiuoGahmieRSDAWVRA9,111A - Metro Moncloa A,111A,1515,Calle Arcipreste de Hita nº 8,40.4336027,-3.7175248000000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1uEL4yuidcaaULQZsApcXtAM,390 - Avena - Mijo,390,1990,"Calle avena, 10",40.3773,-3.7159000000000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1tdfGRbFlYDS64Tqlh3QYGzw,307 - Metro Valdezarza,307,2084,"Calle San Restituto, 74",40.46588016,-3.71693008,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1jOxxGDy0qJry8BFyBiZJykn,315 - Caroli,315,2177,"Calle de Caroli, 10",40.45862,-3.784627,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1rZVhVra2VYwaU7Mlt8KGW9h,"152 - General Perón, 4",152,1558,"Avenida del General Perón, 4",40.4525,-3.6989,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1IVWicrIvEqq0ZHgWf0TxS6K,154 - Orense 36,154,1560,Calle Orense nº 36,40.4548456,-3.6946218,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Cq0fKY5gTQSHDF9uMtNSlod,439 - Cabeza Mesada - Parque de Valdeperdices,439,2011,"Calle Cabeza de Mesada, 5",40.37647902,-3.6294129999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1APzXgDSlef7eWQqpwFimIs4,271 - Amaltea-Meneses,271,2265,"Calle Amaltea, 1",40.394706,-3.68317,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1fFVYU7idiKisflNtkCJPcmV,72 - Metro Sáinz de Baranda,72,1474,Calle Doctor Esquerdo nº 99,40.41591276326391,-3.66921107969284,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1fzyi5sdCXJzuBQPMX2sV4Cm,498 - Metro Torre Arias,498,1982,"Calle Alcalá, 546",40.44313349999999,-3.6178316999999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1F62uXI8np7jyMlWBfHhx5ME,60 - Puerta de Alcalá,60,1464,"Calle Valenzuela, 3",40.418852490562614,-3.689098056552884,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1S54e69lQHjURxmO5l5BXYwT,9 - Plaza de San Miguel,9,1413,Plaza de San Miguel nº 10,40.4156057,-3.7095084,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1qHvScVYBEwOqaAAJUEo7Ri5,306 - Centro Deportivo Mpal Fernando Martín,306,2020,"Avenida Del Santo Ángel de la Guarda, 6",40.4617959,-3.7121965,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1KKO3ofoz970hiZABdpsdoiD,246 - Metro Iglesia,246,1652,"Calle de Santa Engracia, 85-87",40.43595788149785,-3.699248472404664,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Ophy8YPaQIDxrRRkqISu1PC,"279 - Paseo de los Melancólicos, 1",279,2331,"Paseo de los Melancólicos, 1",40.4104448,-3.7184815999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1X2pMnnPgWN5ATRkKH4dr7zP,92 - Claudio Coello - Hermosilla,92,1495,"Calle Claudio Coello, 43",40.4262945,-3.6865463,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Dwqd3HYwmQ3FiheTovv6aqe,98 - Plaza de Felipe II,98,1501,"Calle Narváez, 3",40.4241325,-3.6757676,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_17Y3dLpabHHcHCB9MRCq4Xrs,167 - Segovia 45,167,1573,Calle Segovia nº 45,40.41374770742206,-3.7174891703237303,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ZHfB8KmWlbNqnt7EbqAPzGp,200 - Metro Quevedo,200,1606,"Glorieta de Quevedo, 4",40.43375360585919,-3.7045789811585412,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1RPRURXeVM4wLnZlM62hnpN9,145 - Ortega y Gasset 87,145,1551,Calle Ortega y Gasset nº 87,40.429887,-3.6712823,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1o0bcmP0rFRT2EYfKDyJud0N,50 - Museo Reina Sofía,50,1454,"Calle Argumosa, 30",40.4073541,-3.6960397999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_14cd7ROQCbg794K5xAnGRcFV,232 - José María de Pereda - Alcalá,232,1638,"Calle De José Maria Pereda, 1",40.4327663,-3.6486169000000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1aOgC1MxKBZEpBIDk1kEuWCk,140 - Velázquez - López de Hoyos,140,1546,"Calle Velázquez, 134",40.4387566,-3.6830583,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1TsBOh9vO2z0l23kfStOQSXi,234 - Metro La Elipa,234,1640,"Avenida Marques de Corbera, 52",40.4261278,-3.6510917000000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1j4zcXu7bi4MsjmgVtP0wzt3,36 - Plaza Ramales,36,1440,calle de Noblejas nº1,40.416876,-3.7121509999999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1uM9AWEYV6PZ9e62u8UD4e1q,539 - Mota del Cuervo,539,2154,"Calle Mota del Cuervo, 72",40.4648762,-3.6313571499999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Axx9del1r6fLPb1mtxw8Csk,30 - San Quintín,30,1434,Calle Pavía nº 4,40.4192095,-3.711504,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ONEX5YL83q2569gZqAMFJGW,59 - Plaza de Juan Pujol,59,1463,Calle Espíritu Santo nº 30,40.4255495,-3.7043418,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Uxe7GRg9gjjgL4EWvA24qEX,128 - Metro Islas Filipinas,128,1534,Calle Cea Bermúdez nº 59,40.43898707086967,-3.7155501460158344,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1qlqYjBat8QoQtNoqfOuVpDc,383 - Metro San Fermín-Orcasur,383,1955,"Avenida de la Perla, 35",40.3700017,-3.6939702000000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ToUHG92VByRSKR9io3dd3hq,338 - Guareña - Luis Chamizo,338,2168,"Calle Guareña, 22",40.386362337060476,-3.7653391035306,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1oFbL7pmILpgy7ybF6mo95If,430 - Torremolinos - Rafael Alberti,430,2063,"Calle Torremolinos, 1",40.38500948,-3.6417899899999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1A5vOpXseZ23J968o2IWIsR8,527 - Velacho Alto - Trinquete,527,2066,"Calle Velacho Alto, 4-16",40.47250314,-3.6592688399999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_18BguYJCtANpmuKt0S2U3OpY,83 - Pío Baroja,83,1486,Calle Pío Baroja nº8,40.4132995,-3.6744795,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1YYvIKUk4cZGaGVMdUzklC8Z,560 - Playa de Zarauz - Playa de la Caleta,560,2240,Calle playa de Zarauz (esquina con Playa de Caleta),40.4731404,-3.5906847,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ig70ml5JDDCgsDaxZ08EZ3U,480 - Vicente Muzas - Arturo Soria,480,1961,"Calle Vicente Muzas, 13",40.45903315,-3.6604425500000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1OrevOcSc9eNpjDcqqqAdiy7,91 - Hermosilla - General Pardiñas,91,1494,Calle Hermosilla nº 71,40.426049,-3.6786285,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_12yTC2ygcT6iHBkjBG8p7Y73,86 - Cibeles,86,1489,"Paseo del Prado, 1B",40.4186516,-3.6933498,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1S10SAYfIqZ04UxDjTqZiXV8,309 - Ofelia Nieto - Villaamil,309,2088,"Calle Ofelia Nieto, 75",40.462051,-3.7087339999999998,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1zsIa0wttXUquq9dNLVc4DmZ,582 - Isla Graciosa - Isla de Java,582,2111,"Calle de la Isla Graciosa, 2",40.49262243,-3.6862657,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1c32GJKJMPF7Cv6fU9mMVtab,471 - Molino Viejo - Minerva,471,2264,"Calle Molino Viejo frente , 14",40.396301,-3.60666,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1TgJj79lA319Mjl3H17oxnHT,245 - Galileo - Donoso Cortés,245,1651,"Calle Galileo, 63",40.4363637,-3.7101381,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_13RKX5nN9AMiU1XXSDO93iKx,171 - Embajadores-Cáceres,171,1577,Calle Embajadores nº 97,40.3997013,-3.6984023000000006,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1vNgEj7kKqzlvqE6Gaxkptxp,467 - Univ. Rey Juan Carlos - Facultad  CJS,467,2261,467 -  Calle Villardondiego  nº32,40.4062361,-3.6084888,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1KGsfziFpaDinNBzbhZe5qsH,509 - Amposta - Arcos de Jalón,509,2236,Amposta s/n (esquina Arcos de Jalón),40.42218951,-3.61865045,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1bpUmUJ2qToU34C8N4JTzQHr,572 - Junta Mpal. Dtto. Fuencarral - El Pardo,572,2049,"Avenida Monforte de Lemos, 123",40.47810429,-3.70997335,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1mL17SxGc0hwleuHYsAiKk3q,305 - Intercambiador de Príncipe Pío B,305,2019,"Paseo de la Florida, 37",40.42276114,-3.72317757,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1qJXeTBKbSoiHEHzzGDap2Ud,209 - Plaza de Castilla - Fundación Canal,209,1615,"Plaza de Castilla, 9",40.4657,-3.6887000000000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1xTSVEdp9WVuQfKBv3ZIfLpS,54 - Metro Tribunal,54,1458,Calle Barceló nº 9,40.426599101766264,-3.700392997553259,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_18RELAPvIjuIET8NSFsnxKWB,162 - Metro Pirámides,162,1568,"Paseo de los Olmos, 26",40.4034968,-3.7105765,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1MAAZTU0SPIhaNWc9TOwMTNM,"378 - Eugenia de Montijo, 83",378,2158,"Calle Eugenia de Montijo, 83",40.37562288,-3.7509732999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1jhMOMpc7fcihPA96BRkOzq6,464 - Univ. Rey Juan Carlos - Campus Madrid,464,2082,Avenida de Daroca 321,40.40634029,-3.61283416,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1WEHwLpWdklReoBvXzbYZ3nC,101 - Metro O'Donnell,101,1504,"Calle Jorge Juán, 129",40.4230771,-3.6696803999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_15LpNm1OGJQpAaJ9PCl8jYpO,"146 - María Francisca, 3",146,1552,"Calle de María Francisca, 3",40.4442541,-3.6788499,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1cOD2alraUW43rVjOqZE2Tm9,596 - Metro Lacoma,596,2164,"Calle del valle de pinares llanos, 36",40.4854829,-3.7230042999999995,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1faxwr7vmJ6GHA3LzHVt2ebC,81 - Cuesta de Moyano,81,1484,"Calle Claudio Moyano, nº5",40.40934261188139,-3.691833220071059,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1W7ikFmx9GDZmltJNWtvWbak,181 - Ibiza - Narváez,181,1587,Calle Ibiza nº 16,40.41816932665331,-3.6764435404754696,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1GHOWJIFvNUzOsf4FHzAdXMI,461 - Plaza Corregidor Ldo. Antonio de Mena,461,2047,"Corregidor licenciado Antonio de Mena, sn",40.4099,-3.6408,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1icwkateelFkvvnPx4OZdsTL,518 - Tampico - Plaza Barbados,518,2144,"Calle Tampico, 71",40.444569,-3.6353449999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1CPLbWkp5jCctxWp7PV7PSQ1,8 - Metro Alonso Martínez,8,1412,Plaza de Alonso Martínez nº 6,40.4278682,-3.6954403000000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1FxaGMTt2LMKUTGdI1m3ZAZz,345 - Fuente del Tiro - Avd. de las Águilas,345,2180,"Calle Fuente del Tiro, 72",40.38308791,-3.7798000999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1k2DlgaSBGVxVJJR4wxmuyDP,134 - María de Guzmán - Agustín de Betancourt,134,1540,Calle María de Guzmán nº 58,40.4441818,-3.6955687,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1MCjdkBJ64n8vHru5cck7CaU,339 - Estación de tren Las Águilas,339,2169,"Avenida de las Aguilas , 110",40.38132642,-3.78061952,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1unVxYS6LsSfAMMVTcGRf3GD,106A - Plaza de Colón A,106A,2110,Calle Serrano nº 32,40.424924,-3.687807,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_13UkoWowOndzcdNkmbIgDCKL,"362 - Hilario Herranz Establos, 36",362,2102,"Calle Hilario Herránz Establos , 36",40.372839,-3.7266379999999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1fccCXojo6cF06Xs4EHU3ApN,40 - Conde de Romanones,40,1444,"Calle Conde de Romanones, 10",40.413148899341536,-3.704953887500373,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1bAUM4byJZyMLhg2vUcd7KDF,584 - Metro Montecarmelo,584,2113,"Avenida Monasterio de Silos, 63A",40.50501029,-3.6960334500000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1htnT0R8vRYnvUTQJQfNY4Hn,182 - Parque Roma,182,1588,Alcalde Sainz de Baranda (esquina con calle de Juan Espladiu),40.4186666,-3.6657776999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1kKKU4AbJnwif4Gu02QKB2xG,114 - Quintana - Juan Álvarez de Mendizábal,114,1519,Calle Quintana nº 13,40.4278379,-3.7174631000000002,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1DDVI7YpNJYlRPM22QAJtTyi,459 - Moratalaz,459,2046,"Avenida Moratalaz, 33",40.40750626,-3.66000272,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1iBvHojAqnJA1uBEbMp6CFQd,555 - Parque del Capricho,555,1992,"Paseo de la Alameda de Osuna, 48",40.45476837,-3.5981217100000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1fxZ5k1T1G0DCLOG4QEodwnf,324 - Metro Lucero,324,1999,"Calle de las Higueras, 49",40.40457132475174,-3.7450961521148636,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Kt8Jvv5r9xMmRZ1MAcF1ILI,147 - Doctor Arce 45,147,1553,Avenida del Doctor Arce nº 45,40.4484,-3.6794000000000002,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1FU6qhrZtbe5pI3k2dFWkUwD,10 - Marqués de la Ensenada,10,1414,"Calle Marqués de la Ensenada (junto a edif, Centro Colón)",40.425403,-3.6921040000000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1xnqfTNenHh78zgkV2KyPGgE,231 - Derechos Humanos - Verdaguer y García,231,1637,"Calle Derechos Humanos, 14",40.4398283,-3.6557193,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1PoVQilxflt2ht5CdPqjP3pm,627 - Alcalde Andrés Madrid Dávila 92,627,2385,C/ Alcalde Andrés Madrid Dávila 92,40.398303,-3.548534,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1FZIA1Dd1ZrafTe4WIWiMK1D,273 - Delicias - General Lacy,273,2117,"Calle de las Delicias, 41",40.40381914,-3.6909183100000003,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1dQDtR5D2aSGeCPEJAwXheGX,"452 - Las Suertes, 15",452,2189,"Avenida de Las Suertes, 15",40.3713613,-3.6078539000000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ytnOULtayT8gqAPR5i6l8Ly,"76 - Avenida del Mediterráneo, 19",76,1478,Avenida del Mediterráneo nº 19,40.407271,-3.6751020000000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1KFiflKUEO3Kfz2PdPHTRx5R,41 - Metro Antón Martín,41,1445,Calle Atocha nº 56,40.4122047,-3.6991147000000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_11CS0vSXIv7NdgYbARlV3x2q,45 - Metro Puerta de Toledo,45,1449,Puerta de Toledo 1,40.4068659,-3.7111033999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1TAPVVAipUVs6WMXxGoTQvGM,229 - Centro Deportivo Municipal Concepción,229,1635,"Calle José del Hierro, 6",40.4369378,-3.6486508,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1zGZhtbjtowhnwpjvm3K1Pcf,389 - Julio Merino - Pilarica,389,1989,"Calle Julio Merino, 5",40.3831,-3.7032,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1sIASkjXc2ZjRYQ78tgddnxW,79 - Metro Menéndez Pelayo,79,1481,Avenida de Menéndez Pelayo nº 38,40.405110193977585,-3.680439824323069,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1atrBq9LoEftbqjFzAlSMe5X,321 - Metro Casa de Campo,321,2318,Carretera del zoo s/n (metro Casa de Campo),40.40316,-3.7610509999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1PqUEa30xXiH8qHIor3yWPQl,423 - Estación de tren Asamblea de Madrid,423,2027,"Avenida de Entrevias, 56",40.38138801,-3.6685501300000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1WjunCb9FoU95eKGrkU8pEeS,"450 - Camino de las Hormigueras, 161",450,2183,"Calle Camino de las Hormigueras, 161",40.3762555,-3.6370762,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1OQZoIEV80GwdVaxLBXXTazS,176 - Plaza de la Beata María Ana de Jesús,176,2368,"Calle Alicante, nº3",40.3941856,-3.6939412,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1GJErnSvnkR5MS5kiza9R8iJ,432 - Maquinilla - Tranvía Blanco,432,2001,"Calle de la Maquinilla, 8-10",40.38078101,-3.6364842400000006,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_11xLfennYGnvmyUHhvSZPRf2,"386 - Avenida de los Poblados, 130",386,1956,"Avenida de los Poblados, 130",40.37347443,-3.7133152099999998,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1mAt20sXs54kSFRiX5kGmrup,218 - Camino de los Vinateros A,218,1624,"Camino de Vinateros, 28",40.4105478,-3.6572967,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1yPgkvJawwPrLIZpdU77xWpK,374 - Dinero - La Peseta,374,2148,"Calle del Dinero, 38",40.3625707,-3.7501466,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_15KVBWZwzZEtgA879zsImRyj,212 - Metro Marqués de Vadillo,212,1618,"Glorieta Marqués de Vadillo, 9",40.398247,-3.7165910000000006,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1JF1Lzq4TE24P67ftMOGCu6C,617 - Calle Eduardo Barreiros,617,2383,Calle Eduardo Barreiros s/n,40.358866,-3.7023800000000002,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1CfPZlqzs9Y6yTVp8jVsRpbo,165 - Entrada Matadero - Paseo de la Chopera,165,1571,Paseo de la Chopera frente 51,40.392888,-3.697596,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1TkZmCqOZAJRj23qeUgJ1g7l,580 - Metro Herrera Oria,580,2214,"c/ Ginzo de Limia, 47",40.483289,-3.706089,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1lRfUABN8jS3FNafkq8sp2MY,501 - Metro Alsacia,501,1981,"Calle Hermanos García Noblejas, 137",40.4191,-3.6241999999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1X8u2ZplZyo3bxgFOC3n2UU2,385 - Estación de tren Orcasitas,385,1953,"Calle Campotejar , 25",40.36721104,-3.7038867099999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1gLb523YL4nZssi3I3r87ggI,526 - Plaza del Liceo,526,2067,Plaza del Liceo (esquina con Calle Silvano),40.45754368,-3.64441924,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1XQZHIU3O6fRVWSEDzh0RySy,522 - Metro Estadio Metropolitano,522,2271,Avenida Arcentales (frente Estadio Metropolitano),40.43333298,-3.60097542,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1yJznU3mDX06BSWuomk1lMzN,256 - Reina Victoria - Beatriz de Bobadilla,256,1662,"Calle Beatriz de Bobadilla, 4",40.44635,-3.7138299999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_13bZy60GE9kMvFDuYRIJV0lG,22 - Jacometrezo 3,22,2403,"Calle Jacometrezo, 3",40.420172,-3.706494,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1gN8NnRfJLffHqmhzj4FmndP,"417 - Romeo y Julieta, 13",417,1978,"Calle Romeo y Julieta, 13",40.37873799,-3.6621756300000006,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1XoU0dAzfItm5oDG96numbxb,297 - Simancas - Pinos Alta,297,1997,"Calle Simancas, 2",40.4655,-3.6951129800000007,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1q18ux1AVQGc1wYq4bzLiJVn,598 - Hospital Ramón y Cajal,598,2312,"Calle San Modesto, 44",40.4858012,-3.6923396,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ooz35x7tMvjWHmsunxzRVCu,"559 - Calle Babilonia, 19",559,2309,"Calle Babilonia, 19",40.4675299,-3.5882346999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1tLoY24C2ZexJBJWnPLnqMGB,37 - Plaza de San Francisco,37,1441,calle de calatrava 38,40.41013,-3.7134010000000006,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1oLITL9tvG6LONzJhVAu6sMc,483 - Marcelino Álvarez - Daroca,483,1966,"Calle Marcelino Álvarez, 31",40.4297428,-3.6534324,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ZRzSA47KfZAqi3UUGzCo2AK,173 - Paseo Esperanza - Santa María Cabeza,173,1579,Paseo de la Esperanza nº 59,40.3983467,-3.7024839,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1nlNsUMfJ8dcG1HImsOiaRd7,219 - Camino de los Vinateros B,219,1625,"Camino de los Vinateros, 108",40.4083593,-3.6467337999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1VEK85kWz5XlDYqwvPWQ6XMv,259 - Metro Ciudad Universitaria B,259,1665,"Ciudad Universitaria, 2",40.44270528449462,-3.726752004160312,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1hzZBJV8TcL0Kn1Q0uISy6cE,512 - Semilla - Aparejadores,512,2092,"Calle de los Aparejadores, 24",40.42667885,-3.61537023,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1fRoI0cq3O0iAF8LlBWLq1OP,"184 - Marqués de Zafra, 24",184,1590,"Paseo del Marqués Zafra, 24",40.426,-3.6653055,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1fEpjZXee2KpK3uVn2MqzgNy,310 - Estación de tren de Aravaca,310,2319,"Calle Rosas de Aravaca, s/n",40.4490509,-3.7845536000000006,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1DPiBUnc8fiLqrTeVDugIEc2,"372 - Lonja de la Seda, 33",372,2146,"Calle Lonja de la Seda, 33",40.36612215,-3.76158263,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_10WhWsgnCIwzQklYoslbh8Pa,288 - Caídos de la División Azul,288,1972,"Calle Caídos de la División Azul, 28",40.4664,-3.6723,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1m5H5EmHk7Zb9TfQqk1dkQQq,55 - Plaza de San Ildefonso,55,1459,Plaza de San Ildefonso nº4,40.4239757,-3.7020842,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1jzKGf4OOBF0ypbOb4cW2UWu,"463 - Casalarreina, 18",463,2081,"Calle Casalarreina, 18",40.40939089860396,-3.612318798052458,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Y6qmXagWu0XEqBzGBqJan6m,243 - Cartagena,243,1649,"Calle Cartagena, 37",40.43503,-3.6701200000000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_18pLvOByxFrQExzVetVbkuC0,547 - Rafaela Aparicio - Maruja Mallo,547,2301,"Calle Rafaela Aparicio, 1",40.4792396,-3.6312178999999998,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ePDiOlDUvCYNQjCAAkqIa5m,253 - Doctor Fleming - Estadio S. Bernabéu,253,1659,"Calle del Doctor Fleming, 7",40.45546,-3.6884400000000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_19tGK6Tlr4spATEJB1IHAb8c,352 - Algorta  - General Ricardos,352,2005,"Calle Algorta, 2",40.39162261454714,-3.72745169,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1TplWGVL9b2UYk0KDwq69ISP,168 - Santa María Cabeza - Batalla del Salado,168,1574,Paseo Santa María de la Cabeza frente al 30,40.4046,-3.6959,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1MMi2WWeTOGlMvsXvzUt3W2y,4 - Malasaña,4,1408,Calle Manuela Malasaña nº 3,40.4286259,-3.7025,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1auYUxQFf6Zr55bNxn50l7FY,163 - Metro Acacias,163,1569,"Paseo de la Esperanza, 2A",40.4037586,-3.7064450000000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1YZnUqroIqoyt3Wj1XzyK9cx,137 - Plaza de la República Argentina,137,1543,"Plaza de la republica argentina, 7",40.4454477,-3.6853377000000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1a93fKW0Jdn0pkjrh8Rtfmi6,493 - Arturo Soria - San Luis,493,2072,Calle Arturo Soria (esquina con calle Jazmín),40.47636724,-3.6684167,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1gv5UkdIDfHGqvEmYAinWfYK,578 - Sierra de Atapuerca - Viloria de Rioja,578,2250,"Calle Sierra de Atapuerca, 19",40.50292982,-3.6704248799999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1VZvRXzLm5QdkHLCyeFlorXf,18 - Plaza de Pedro Zerolo,18,1422,Plaza de Pedro Zerolo nº 20,40.4209251,-3.6996776,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1mMwmHdsblBK1XU3GBxl4uHD,413 - Doctor Martín Arévalo,413,2280,Calle Doctor Martín Arévalo enfrente del N°16,40.345928,-3.707413,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1XdSkJNIkk93vuiZgBRjorld,400 - Metro Ciudad de los Ángeles,400,2083,"Paseo de los Gigantes y Cabezudos, 4",40.36064659,-3.69399661,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1l5ifsSswnU3AnpqHS9eYYRj,365 - Palacio Vistalegre Arena,365,2133,"Avenida Plaza de Toros, 3",40.38537202,-3.7372590799999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_13tuamzaCM8h6TkqTjfoXbP3,258 - Metro Ciudad Universitaria A,258,1664,"Ciudad Universitaria, 1",40.444311,-3.7269389999999993,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_18JRoGVIU2J8cDhNN0vHlzRA,535 - Metro Canillas,535,2121,"Calle Ramón Power, 2",40.463575,-3.634999,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1lE9CtjRUVY4qe3fuMnWfeRq,484 - Metro García Noblejas,484,1967,"Calle Luis Campos, 3",40.42893071,-3.6323890000000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1TcsZZ687HsrLv6r7oAsD2iQ,217 - Hospital Universitario La Paz,217,1623,"Calle Pedro Rico, 4",40.480884,-3.6890757999999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1wozOOMcSOZM5ESbZZJiUsO1,285 - Santa María Magdalena - La Drácena,285,1969,"Calle Santa María Magdalena, 15",40.4631,-3.6706,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_16mezRazic4jngewWTayEFJy,287 - Metro Bambú,287,1971,"Calle de la Yuca, 1",40.4765,-3.6762,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1udTeZOboL46wgHsWqVmhWcr,115 - Ferraz - Templo de Debod,115,1520,Paseo de Pintor Rosales (esquina Marqués de Cerralbo),40.42531476841791,-3.7170515055225373,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Xd4BSBTTu2dOtI2rX42t0yv,75 - Parque del Retiro - Plaza Mariano Cavia,75,1477,Avenida Menéndez pelayo (esquina con calle Poeta Esteban Villegas),40.4082717,-3.6784749,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_11nBcSTMzLFdqrnbGsyxg3jW,326 - Metro Alto de Extremadura,326,2043,"Calle Francisco Tejada, 1",40.40937950320982,-3.739615781020349,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1oy3A2zYfZ60oYrBEemQIXEa,144 - Metro Diego de León,144,1550,"Calle de Juan Bravo, 51",40.4324081,-3.675556,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_18CwghmbNmIMEMChdBro8qeY,65 - Parque del Retiro - Calle Antonio Maura,65,1468,Calle Antonio Maura nº 13,40.4167014469994,-3.6894247979427686,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Ixkh3lTfHuTrUvqg5vuPxDd,311 - C. Universitaria - F. Geografía e Histo,311,2320,"Calle Profesor Aranguren, 1",40.448553,-3.7335740000000004,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_15uLYR9kK17B6I2H9BPSUWG3,87 - Ayala - Velázquez,87,1490,Calle Ayala nº 46,40.427736,-3.6832565999999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1WEdh7uH5c0eiwNs15gh74PK,239 - Francos Rodríguez - José Calvo,239,1645,"Calle de Francos Rodríguez, 62",40.4567132,-3.7078331000000007,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1WsaqPqAtxVfZKvecWPS6Fch,337 - Metro Aluche,337,2167,"Calle Valmojado, 295",40.38614104,-3.7604892299999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1LT4Q1RcRcjgL8Sp9rxpzz1q,62 - Hospital M. Infantil Gregorio Marañón,62,1466,Calle O'Donnell nº 48,40.4213148,-3.6724968,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1YjdeT1fbGY5CPS7sZ0Hhxvp,88 - Velázquez-Padilla,88,1491,"Calle Velázquez, 73",40.4313576,-3.6838303,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_10kEczvaZijhRt8R2sI1gYtx,107 - Serrano - Conde de Aranda,107,1511,Calle Serrano nº 8,40.42156087297841,-3.6883841104507464,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1I2WJZTchHxy2NVVkqkYnVMI,516 - Juan Ignacio Luca Tena - Quinta Molinos,516,2138,"Calle Juan Ignacio Luca de Tena, 13",40.44796778,-3.6311025499999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_13OZLnrzRDly4rbb3FIaRRDh,286 - Plaza Duque de Pastrana,286,1970,"Plaza Duque de Pastrana, 2",40.4679,-3.6778999999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1jQATpTaHRkPvUwW4dQrclyO,366 - Metro Carabanchel,366,2134,"Paseo de Marcelino Camacho, 53",40.387737,-3.7445210000000007,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_14EqwolFjFdBVxF2W0odN9pA,359 - El Toboso - Zaida,359,2096,"Calle de El Toboso, 115",40.3929901,-3.7363397,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1JlvssVa9c7HYpJDgvcZFFPX,17 - Plaza de Carlos Cambronero,17,1421,Calle de la Madera nº 10,40.4228028680601,-3.7050511289749055,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1TJcIXIWCscIuayXPSpRLfyX,143 - Diego de León - General Pardiñas,143,1592,"Calle de Diego de León, 54",40.434676,-3.6780802000000006,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Na32PYG9pMG8hnI4KawW4X1,190 - Velázquez - Diego de León,190,1596,"Calle Velázquez, 91",40.4343053,-3.6833753,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1KxAXaztPGEBHOgRIgQhohmL,33 - Puerta del Sol,33,1437,Calle Carretas nº 3,40.4165363,-3.7032264,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1EykwzaBp5B8UExPr7pJkSTh,159 - Paseo de la Habana 63,159,1565,Paseo de la Habana nº 63,40.4543852,-3.6835925999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1fuM0REYvDBxAnzoI5iSR1xk,149 - Plaza de Quito,149,1555,Paseo de la Habana nº 42,40.4498515,-3.6879303,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1x0qKxgZGTImwqtnhRnEacL6,74 - Parque Retiro - Jardines Cecilio Rguez,74,1476,Avenida de Menéndez Pelayo nº 69,40.41206290978386,-3.6765887637889834,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Wn8r29uoDdlgHBFecsw6PZc,120 - Metro Palos de la Frontera,120,1526,Calle Palos de la Frontera nº 27,40.403090451430614,-3.6948251018524214,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1uX7sf8QT6bXB7gPfs7iZozS,24 - Palacio de Oriente,24,1427,Calle Carlos III nº 1,40.417767,-3.7106495,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1TSK0lk5F0wdyVidkK1CpUGq,478 - José del Hierro - Misterios,478,1959,Calle José del Hierro esquina con Arturo Soria,40.44152084,-3.6410572000000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1J3MDsFEW1Mmoy6bDUDfeKSH,"387 - Isabelita Usera, 44",387,1954,"Calle Isabelita Usera, 44",40.38272256,-3.7077397199999997,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1416xYJOYhOA0apSHkwGFGAq,506 - Albarracín - Julián Camarillo,506,2076,"Calle Albarracin, sn",40.43397327,-3.6325164100000005,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1NZkOxg0erWlhSLExhLWhTD4,291 - Plaza José María Soler,291,2135,"Avenida Alfonso XIII, 113",40.45866532,-3.66790332,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Tkvx0S23fzQDLyYNKkkQBY9,511 - Aquitania 31,511,2091,"Calle Aquitania, 31",40.41912347,-3.61726728,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_13W1KOeX75HFs3FBn6FBME6P,133 - Raimundo Fdez. Villaverde - Dulcinea,133,1539,"Calle Dulcinea, 3",40.447125,-3.7001669,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1yBCzKBjU9jo6uUHYSmF9wCk,267 - Paseo de la Chopera - Fernando Poo,267,2205,Paseo de la Chopera 31,40.39500000000003,-3.700399664723874,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1cmznNDouAVJmZBDlcA9AHYa,103 - Ortega y Gasset - Serrano,103,1506,"Calle José Ortega y Gasset, 6",40.43053,-3.6867439999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1VmKLVHs3MZg36sO8oR4WiTe,482 - Metro Pueblo Nuevo,482,1965,"Campuzano, 1",40.4356873,-3.6423386,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ihzz19kWavsQmSWVK2eQHi2,192 - Avda. de los Toreros - Fco. Silvela,192,1598,"Avenida de los Toreros, 3",40.431826464468664,-3.6714677183853106,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1MAvYVrStenQAIVlhSAVnOzA,415 - Diamante - Delmira Agustini,415,2279,"Calle Diamante, 10",40.3532609,-3.6877534,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1s2WU8ZuObkGNa9oZ2V0PnY9,"500 - Aracne, 17",500,1984,"Calle Aracne, 17",40.445,-3.5895,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1aN0mfkNFqusNx6lb46PRe04,158 - Alberto Alcocer - Padre Damián,158,1564,Avenida de Alberto Alcocer nº 22,40.4585318,-3.684715,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1uahdUhBKuuwzSVjkSurNold,398 - Orovilla - Felicidad,398,2012,"Avenida de Orovilla, 53",40.3587,-3.6895,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1x3LUlbQXCjsDZ3OrHupjzOd,"304 - Valle de Mena, 5",304,2015,"Calle Valle de Mena, 5",40.46962735,-3.7152724500000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1LF5Ctv1WwE6UiwdpaNoLTaa,"284 - Avenida de Burgos, 17",284,1964,"Avda. de Burgos, 17",40.473593878889254,-3.6757900294303902,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1LyD52XGLOoNn19xdvoKvxix,523 - Carretera de Canillas,523,1968,"Calle Carretera de Canillas, 40",40.4628701,-3.65089253,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1t2KagJu9oF97vGwcp7Df1q9,298 - Marques de Viana - Bellver,298,2002,"Calle Marqués de Viana, 85",40.463643,-3.704478,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1bucgLhOuaCF3ppy4Gb96m6v,"170 - Paseo de la Esperanza, 21",170,1576,Paseo de la Esperanza nº 21,40.4010554,-3.7043956,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1fW0JMCzyrAG4qhwwnLyOznq,"556 - Cantabria, 6",556,1991,"Avenida de Cantabria, 6",40.45462514,-3.5877220100000002,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1twhW49pVntdEpQnwZqSsWH9,477 - Metro Ciudad Lineal,477,1958,"Calle de los Misterios, 2",40.438278,-3.6389040000000006,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Hanj26k7ht8aGBbEGuJZUe9,112 - Paseo de Moret - Parque del Oeste,112,1517,"Paseo Moret, 9",40.4326901,-3.7247360000000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1fdhOLZQmtWIklHnTKu9hg6N,119 - Méndez Álvaro,119,1525,Calle Méndez Álvaro nº 11,40.4012905,-3.6862652999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1iG1jKM1ZpreU9CfsPDeYEMl,180 - Estación Sur Méndez Álvaro B,180,1586,Calle Retama (esquina con calle Acanto),40.3940423,-3.67589,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1QgF8vDDSKjCIQIblsSV4eE0,487 - Manuel Uribe - Arturo Soria,487,2025,"Calle Manuel Uribe, 1",40.46434131,-3.66503419,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1pUqIpNy5ORAEQEjWC0qpPbY,379 - Antonia Rodríguez Sacristán - Valeriana,379,2159,"Calle Antonia Rodriguez Sacristan, 4",40.37313777,-3.74765739,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1C4O3l89mxR8oA4l1xeJ4K0e,263 - Gran Vía de San Francisco,263,2308,"Avenida Gran Vía de San Francisco, 6",40.40833880815136,-3.712793282384579,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_19qSeOcIjqUSUspVIh2ynR6Y,502 - Puertollano - Veinticinco de Septiembre,502,2022,"Calle de Puertollano, 4-2",40.4425157,-3.6237372,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1k2HAN4QHvEmW8WG9gOrgWxU,121 - Glorieta de Santa María de la Cabeza,121,1527,Paseo de Santa María de la Cabeza nº 58,40.4017487,-3.6986027000000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_14TFoVFagfE2kSA8uTGrIZAh,295 - Hernani - Edgar Neville,295,1995,"Calle Hernani, 59",40.4481,-3.6972000000000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1U8rvbjAEKrAaLg0Y74N3gEu,323 - Centro Deportivo Municipal Gallur,323,1998,"Calle Gallur, 5",40.3984,-3.7359,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1f99dlMjbKX4rvWYMu3mNKLy,440 - Metro Villa de Vallecas,440,2053,"Paseo de Federico García Lorca, 2",40.3795035,-3.62144691,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1NypCfnNSsJL3TVeahPc4HoX,80B - Estación de Atocha B,80B,2275,Avenida Ciudad de Barcelona (esquina con Plaza de Carlos V),40.4075211,-3.6904748,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1t2aHS2Lk48IukuH3N9EjnFK,84 - Biblioteca Pública Elena Fortún,84,1487,Calle Doctor Esquerdo nº 191,40.40357156992851,-3.672481575393678,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1dqhZmMre2MB3aNlJ8qObDyc,227 - Arroyo del Olivar,227,1633,"Calle Arroyo del Olivar, 3",40.39382977920336,-3.665936242935637,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1mEzsg5s3g4prlm3VpbwP5Z4,"455 - Luis de Hoyos Sainz,  198",455,1975,"Luis de Hoyos Sainz, 198",40.400094,-3.6292746499999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1mYxYaDeQdH3RZInbmhuFs28,316 - C. Deportivo Mpal. Ciudad De Los Poetas,316,2178,"Calle Antonio Machado, s/n",40.46439687,-3.71995383,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1t2uSjCvEFzClwcXplJYdFNq,564 - IFEMA B,564,2322,"Avenida Del Partenón, 18",40.463861,-3.6138669999999995,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1AVKJ89bfQwAGM6jZsoOdcxP,136 - Metro Nuevos Ministerios,136,1542,Paseo de la Castellana nº 106,40.4451244,-3.690769,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1WHsmWowUdhBgU7eYsHSjIEH,102 - Metro Retiro,102,1505,Calle Alcalá nº 95,40.4211845,-3.6842317,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1U6PyGI1bFxSSkpHyB05KBe8,201 - Metro Canal,201,1607,"Calle José Abascal, 2",40.4386944,-3.7038332999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ARWNdNl32PWX3w44jTtROA3,211 - Desengaño - Valverde,211,1617,"Calle de el Desengaño, 4",40.42059,-3.70239,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1W7Aj6BfHrQXmAZPSY2aPX8X,438 - Biblioteca Pública Luis Martín Santos,438,2187,"Calle Enrique Garcia Alvarez, 5",40.3804482,-3.6140607000000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_17vRSbLocsnNDZWPR3E0wkCa,504 - Biblioteca Pública Municipal San Blas,504,2038,"Calle de San Roman del Valle, 20",40.42309928573645,-3.623466935545257,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1rznEMpB1NqanyLEMJBUIhSX,503 - Zaldívar - Valdecanillas,503,2039,"Calle Zaldivar, 19",40.43209033,-3.62650373,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ZVoXEPARmULhoJUeeIPLFTR,214 - Condesa de Venadito - Albacete,214,1620,"Calle Condesa de Venadito, 2",40.4434316,-3.6569031,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1MHFcjI2V5eiwfZJpK16oTnQ,351 - Comandante Fontanes - General Ricardos,351,1987,"Calle Comandante Fontanés, 1",40.3951415,-3.7211209,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_18NHZWJoQwaidwtfXAZ9DJNS,257 - Ciudad Universitaria - INEF,257,1663,"Avenida Juan Herrera, 1",40.438873,-3.7305269999999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ASTAbRlAiBZLbNJcVNjsHnS,481 - Diego Ayllón - Arturo Soria,481,1962,"Diego Ayllon, 2",40.45117857,-3.6521906299999998,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1zV7M5gqyvST4bejhwNJyXcr,31 - Mayor,31,1435,Calle Mayor nº 16,40.4163638,-3.7068969,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1HkBdcFlpQ0shWiOQJIVvY1H,437 - Metro Sierra de Guadalupe,437,2003,"Calle Sierra de Guadalupe, 11",40.38135158,-3.6237645700000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1XuXfdZlHCzHeUNy3bbvcTLr,391 - Junta Municipal Distrito de Usera,391,2207,Calle Rafaela Ybarra 22,40.3817026328731,-3.711296220901499,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_14EaWRaMs9PDo9bMlauGXUYC,460 - Fuente Carrantona - Doctor García Tapia,460,1974,"Fuente Carrantona , 33",40.4070216,-3.63192261,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1d7rqnKWv4th35fbqhBhyIdP,248 - Sinesio Delgado - Cuatro Torres,248,1654,"Calle de Sinesio Delgado, 2",40.4743209,-3.6879973,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1i97uroeXNa7oVLakqYFs0m9,93 - Plaza de Margaret Thatcher,93,1496,Calle Goya (esquina calle Marqués de Zurgeña),40.42575853342561,-3.6893361690338162,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1YQzo1qsf07ZAzn50cXgrWBE,546 - Andorra - Canillas,546,2348,"Calle Andorra, 2",40.4628976,-3.6467519000000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1dT4kjTFsxwt4DAWVguejTmm,225 - Sierra Toledana - Doctor Lozano,225,1631,"Calle Sierra Toledana, 33",40.402506,-3.660345,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1K4vsyya8C0MLLcNTXrndsc7,325 - Ps. Jesuitas - Pza. Cerro Bermejo,325,2249,"Paseo de los Jesuitas, 4",40.4106918,-3.7305543000000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1beGj1j1dP3OekbPgCNJ5mWS,453 - Metro La Gavia,453,2190,"Avenida del Ensanche de Vallecas, 9",40.37043968,-3.61253028,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1fy89FE4CmTuZ6BXFXTeoOxd,497 - Metro Suances,497,1985,"Calle Alcalá, 506",40.4407,-3.6274,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1weVuGRIF7pBknzK7EI1s5Fv,418 - Puerto de Arlabán - San Diego,418,1979,"Calle Puerto de Arlabán, 83",40.3864,-3.6674999999999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1IXFu3kFveWNC7xJ1shxDsP1,183 - Hermosilla - Doctor Esquerdo,183,1589,"Calle Hermosilla, 135",40.425635,-3.6693389999999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1M8vnVmFH4J8kkhlhnoxlJwY,"275 - Juan Antonio Vallejo-Nájera Botas, 25",275,2267,"Paseo Juan Antonio Vallejo-Nájera Botas, 25",40.4020545,-3.7082123,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1pqgpLTe9yhg0PZBNGpQTPNM,"422 - Travesia de Palomeras, 7",422,2026,"422 - Travesia de Palomeras, 7",40.39017003,-3.6705179,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1zTxd1NnIVUNdvYxFJXRGXq4,172 - Estación de tren de Delicias,172,1578,Calle Bustamante nº 3,40.4008279,-3.6934925999999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1XMKxWHvDeQz9P4gwQijVPmI,"433 - Villalobos, 28",433,2073,"Calle Villalobos, 28",40.38161669,-3.6507603700000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1VlT25mHmH0xbMrIaP2oYE3C,436 - Campus Sur UPM,436,2074,"Calle Alan Turing, 2",40.3901675,-3.62713659,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1t7Hn2dcnepWHt1BIIACnEHu,11 - Plaza del Dos de Mayo,11,1415,Calle San Andrés nº 18 - 20,40.427,-3.7036,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ppjlaGm5DUvMlcokl7toe6y,25A - Plaza de Celenque A,25A,1428,Plaza de Celenque nº 1,40.4173703,-3.7057791,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1fkZLk5WlulXhsGLzIXk5ZzI,53 - Plaza de Lavapiés,53,1457,Plazuela de Ana Diosdado,40.40830870823806,-3.700754126389314,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1nz34UIPKlL7mlVFj62lmGG1,557 - Metro Alameda de Osuna,557,2103,"Calle Rioja, 13",40.45746674,-3.5881514300000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_11oqChdbKapaZN8ifnlvET22,"375 - Calderilla, 4",375,2149,"Calle Calderilla, 4",40.36521132,-3.7385111400000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1WsiIsqmNyR0Wzb9Zd8ckQem,78 - Metro Pacífico,78,1480,Calle Cerro de la Plata nº 4,40.40063747422422,-3.674524060049444,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1IUhTfTKK8FZD44smjqqMwDO,161 - Intercambiador de Príncipe Pío A,161,1567,Paseo de la Florida nº 8,40.422192474165534,-3.7220993214090403,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1PKG84X511HlJKGSwpo33Dbi,341 - Escalona - Seseña,341,2313,"Calle Escalona, 2",40.39834576,-3.76182259,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1BWZbQReOEF64RXq5mneUt0d,178 - Junta Municipal Distrito de Retiro,178,1584,Calle León Gil de Palacio nº 1,40.4029202,-3.6788343,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Jcz3vPhvc194I9uvvRuIjfA,197 - Parque de Berlín,197,1603,"Avenida de Concha Espina, 36",40.4516059,-3.677916,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_17okT23tYt6pPmT4GYR2pPsI,213 - Glorieta de Cádiz,213,1619,"Calle de Antonio López, 129",40.3889918,-3.7002247,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1tezRIt3PtIg7KfH5RPRNxB7,224 - Parque de Caramuel,224,1630,"Calle Caramuel, 51",40.409,-3.7287000000000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_11ixrLqzHIPOTGRP0DARGZtg,302 - Ps. Dirección B - Pque A. Rguez Sahagún,302,2080,"Paseo de la Dirección, 330, (enfrente)",40.4702445774,-3.703955,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_10RBzeEWOBzd18ltjE1SSzCf,255 - General López Pozas - Apolonio Morales,255,1661,"Calle General López pozas, 2",40.46361,-3.685292,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1g09gigoivwG9YnJIJCBEBGE,261 - Ciudad Universitaria - Facultad Derecho,261,1667,"Avenida Complutense, 21",40.4505516,-3.7296756,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1MNmHDa7wcwhQy9tJsIYrFcL,388 - Estación tren - Hospital 12 de Octubre,388,1952,"Calle Doctor Tolosa Latour, 7",40.37837955,-3.7004147799999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1avbl7iGWT66LjTqaXlguRhE,476 - Metro Avenida de la Paz,476,1957,"Avenida Ramon y Cajal, 101",40.453493,-3.662016,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ZloCF8qibmy0zWp90qgvXTJ,575 - Metro Barrio del Pilar,575,2051,"Ginzo de Limia, 36",40.47817,-3.703526,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1qKOUDzii4dwG91TWTB7A6Tr,586 - Caldas Estrach - San Cugat del Vallés,586,2115,"Calle Caldas de Estrach, 14",40.4963916,-3.6974724999999995,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ykBr5ExdlAnNVendyRmkWPo,292 - Centro Deportivo Municipal Pradillo,292,2136,"Calle Pradillo, 33",40.44904126,-3.6717937,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1IPKZGsELygi9ZtSZsiOxfeI,"545 - Zapatoca, 8",545,2281,"Calle Zapatoca, 8",40.47285235,-3.63335803,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1jPbljH1NvSBGeihDUl9mKAu,177 - Metro Legazpi,177,1583,Calle Bolívar nº 3,40.391447085678806,-3.6941876374343896,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1kWRmeWzWCsXPD4aaGMjSwBy,561 - Plaza Nuestra Señora de Loreto,561,2238,Calle Cristo del Gran Poder (cruce con calle Alas),40.472048,-3.5857510000000006,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1TTDkNkvCTJMBMlpTh12TvOL,"344 - Ocaña, 103",344,2174,"Calle Ocaña, 103",40.38586273,-3.75292035,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_18Z5TIanw6k6re7LdMKYn2W9,562 - Tomillar - Tintín y Milú,562,2239,"Calle Tomillar, 18",40.46267435,-3.5840557299999998,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_198wUG1YskeSdsSXHvTAGpky,473 - Villablanca - Parque Forestal Vicálvaro,473,2342,"Calle Villa Blanca, 85",40.40500033,-3.59888007,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1xq5pFaKfGQprZajCxdmHKci,"550 - Príncipe Carlos, 54",550,2349,"Calle del Príncipe Carlos, 54",40.4941108,-3.6566739999999998,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1PwocFFvAwUcgwkZiFTYohYi,"603 - Castiello de Jaca, 14",603,2352,"Calle Castiello de Jaca, nº14",40.5091982,-3.6782027,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1qmePJvY01Wzm8uGKuMsq2W5,607 - Metro Ligero - Palas de Rey,607,2359,"Calle Valcarlos, nº20",40.5051915,-3.6641571,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1BYcrff0YeK6BXjddXJbJdaP,237 - Acueducto de Amaniel,237,2362,Calle Francisco Balseiro 2,40.4516819,-3.7102736,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_16bce9USq04c5LKhUXTUW6pY,"424 - Camino de Valderribas, 47",424,2028,"Camino de Valderribas, 47",40.4002231,-3.663958,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1KWuE6Za4oLsgz7lHgCad5DI,426 - Humanes - Benjamín Palencia,426,2030,"Calle Humanes, 3",40.3952121,-3.64932678,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1bt9B6FdZaZcZp4qa3xcYmPt,"427 - Andaluces, 2",427,2031,"Calle de los Andaluces, 2",40.3914244,-3.64148304,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Lv1XQZvpXrDFkWqkDXhB8Kb,489 - Serrano Galvache - Yerma,489,2034,"Serrano Galvache, 56",40.47675257,-3.67144504,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1g0E8HGOGc6UNXMceM5FvZEV,490 - Hnos.García Noblejas-FcoLargo Caballero,490,2035,Calle Hermanos García Nobleza (esquina Plaza del Reloj Solar),40.42427523,-3.62888094,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_18P0RQeEN6wWmc7dGyc0IpKK,525 - Metro Manoteras,525,2037,"Calle Bacares, 20",40.47675499,-3.6626902900000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1I0d5G93kphT7UJ1kUgiZFUg,"431 - Puerto Canfranc, 18",431,2068,"Calle Estación de Canfrac, 18",40.3969,-3.6634,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1QVgudzyci274x9AgXLpIQch,357 - Sorbe - Baleares,357,2070,"Calle del Sorbe , 20",40.3898701,-3.7132091699999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ukgSl4GNcHoexkWFNA6AF7O,270 - Teresa L. Valcárcel - Tte. Cnel. Noreña,270,2071,Calle Teresa López Valcarcel (esquina calle Teniente Coronel Noreña),40.38862908,-3.69328771,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1c8bVNPvJM6utD1qJiSBingj,"576 - El Ferrol, 18",576,2086,"Avenida El Ferrol, 18",40.47431313,-3.70510525,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1eoQrx5Cb62BcyjdfrO6QSbm,90 - Metro Velázquez,90,1493,"Calle Goya, 20",40.4251493,-3.6838415999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_14LyTASavmeOPeqVZY8BYN0Y,514 - María Sevilla Diago,514,2094,"Calle Maria Sevilla Diago, 5",40.43283006,-3.6109507700000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ed89JIrTICeVN7sATI3RHE9,360 - Ntra. Sra. Fátima - Ntra. Sra. de Luz,360,2097,"Avenida Nuestra Señora de Fatima, 34",40.3840155,-3.7470882000000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1A5EyNnQYNUoTEShYf4DPhjs,441 - Estación de tren de Santa Eugenia,441,2099,"Avenida Santa Eugenia,1",40.38600753,-3.6094815299999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_10mJfHGmoKVBq3zbo3kwyydd,"443 - Fuentespina, 33",443,2101,"Calle Fuentespina, 33",40.37941487,-3.6072475500000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1tfP6RrS6hBiFvN1ksSeTss6,290 - Francisco Suárez - Paseo de La Habana,290,2104,"Calle Francisco Suárez, 28",40.46437817,-3.6799441599999994,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ozF8hzPhFOSjSyjJCNx0yPl,531 - Metro Parque de Santa María,531,2107,"Calle de Santa Virgilia, 6",40.4768782,-3.6450740999999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_16ARODI5VI0QAmLee01IUyVh,532 - Metro San Lorenzo,532,2108,"Avenida Barranquilla, 17",40.47490194,-3.6395164,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_18moSyz8drYZjSaC9kvZ4PbT,"533 - San Luis, 23",533,2109,"Avenida de San Luis, 23",40.47148748,-3.6551145499999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1wPXi46CSB0E5LjZ992uiHWt,583 - Ángel Múgica - Marcos de Orueta,583,2112,"Calle de Angel Mugica, 3",40.48468297,-3.68529048,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1graJG8NJHnGczKR4fhen8qG,"538 - Haendel, 8",538,2131,"Calle de Haendel, 8",40.46275082,-3.6253213100000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1b1urwUzuV2wvpJLtUF3vcqr,494 - Metro Pinar de Chamartín,494,2137,"Arturo Soria, 332",40.480694,-3.666529,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1pBWCgBkIohI10f2k1zsTF9Y,97 - Metro Príncipe de Vergara,97,1500,Avenida Menéndez Pelayo (esquina calle Alcalá),40.4225364,-3.6802556,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1EQuHMJSzSDdNKhkhfrYNOBT,368 - Eugenia de Montijo,368,2139,"Calle Eugenia de Montijo, 57",40.3791024,-3.7470606799999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1icETx7iuwKx3BVZ7S9X3FqQ,370 - Avefría - Plaza de Tarifa,370,2141,"Calle de Avefria, 26",40.38386939,-3.7308024999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1sPUliVTzfeLSiwnjpz0Sitf,590 - Metro Arroyofresno,590,2142,"Calle Maria de Maeztu, 50",40.49093014,-3.72757227,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1qndhrtWBkMu8MBvPUlq2Gnt,517 - San Mariano - Circe,517,2143,"Calle de San Mariano, 52-60",40.44175279,-3.61190481,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1OV4wrcRtrqXRu6rzqSb0CIp,373 - Metro La Peseta,373,2147,"Calle Salvador Allende, 28",40.36277848,-3.75787005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Juuc5auzKbRNR29h4FC8B5T,591 - Metro Mirasierra,591,2150,"Av.Ventisquero de la Condesa, 37",40.49108225,-3.7162292099999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1F6GdUzNpaeIIMYnx08ex1rV,592 - Estación de tren de Pitis,592,2151,"Calle de Gloria Fuertes, 180",40.4956969,-3.7249527,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1XDtgsD4x7eQ8NlrKIRGWlzq,376 - Metro Carpetana,376,2152,"Calle del Pinzón, 111",40.39229225,-3.7405438000000006,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1scTwLRAEfq6kvJ4YF3k7dp3,334 - Metro Campamento,334,2155,"Calle Seseña, 93",40.39497294,-3.76815631,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ReL8aNmxTzTjGg81ol79PKs,"335 - Cardaño, 10",335,2156,"Plaza Patricio, 5",40.39659757,-3.7705754100000006,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_17SRFegZ5PhCn56EIXFnx5YE,540 - Estación de tren Fuente de la Mora,540,2165,"Calle Dulce Chacón, S/N",40.4845596,-3.6636484,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1WXTIQuueyYFLYlAgq0NtmH1,445 - C. Deportivo Mpal. Juan de Dios Román,445,2171,"Calle José Gutiérrez Maroto, 36",40.36334587,-3.6050356400000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1G1eqduxiDsAKWN0qhXUsYL6,599 - Instalación Deportiva La Cabrera,599,2172,"Calle La Cabrera, sn",40.47223267,-3.7192044300000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1eCyMKbdHT58wUZdKjiV0IME,343 - Metro Aviación Española,343,2173,"Calle Fuente de Lima, 10",40.38358975,-3.7833930099999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1V5Li3BjUNVP5IjZFgiNzDIN,"313 - Juan XXIII, 24",313,2175,"Paseo de Juan XXIII, 24",40.448084,-3.7169358999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1jJYm3NC7FiQYyF3j7iYAYPc,314 - Av. Valladolid - Parque de la Bombilla,314,2176,"Avenida Valladolid, 47D",40.42966,-3.73068,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_17JHtd5lsvqNPshAvlLj66oM,"317 - Antonio Machado, 30",317,2179,"Calle Antonio Machado, 30",40.46826955,-3.7192171199999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1F3PKP96slktRYldCJ0CHRJW,548 - Eduardo Mazón - Guadalajara,548,2233,"Calle Eduardo Mazón, 1",40.4521484,-3.6154156999999993,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1733FE0pVZGXJ7JnGjnULazf,293 - Santa Rita - Clara del Rey,293,2234,"Calle Santa Rita, 1",40.4457928,-3.6682881999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1JyfzBXGSKXejQVvtjY6626q,520 - Niza - Plaza de Grecia,520,2235,"Av/ de Niza, 67",40.4342806,-3.6081157800000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1QQzLCsxNqFmr7mHqifavytd,568 - IFEMA A,568,2241,"Avenida del Partenón, 6",40.4632802,-3.6178336,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1grS5ipN6hCn4LDpfRoziJ3G,"405 - Paseo Alberto Palacios, 42",405,2243,"Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1WnLV8kCOiNk2MLghhQNL4C6,406 - La Nave de Madrid,406,2245,"Calle Cifuentes, 5",40.3486,-3.6960817,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1XGZuYLzyIiyaP6QIyi9tOQh,151 - Orense 12,151,1557,Calle Orense nº 12,40.44881224951987,-3.695359265012366,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1q2zf8VRwEcciyR6jBMpxjz3,428 - Estadio de Vallecas,428,2032,"Avenida La Albufera, 136",40.3919,-3.6570999999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_18eA5cepQmxKdxfwJn2VQccf,495 - Caleruega,495,2160,"Calle Caleruega, 14",40.478611,-3.6704759999999994,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1D7AMdtS64aEBqXGNn8u11jG,521 - Metro Las Rosas,521,2272,Calle Ginebra (esquina con Suecia),40.423893,-3.6048180999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1CqgvR1Qo5U2WHgt9INCpBdZ,508 - Metro Canillejas,508,2273,Intercambiador de Canillejas,40.449095,-3.609553,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_13oLkHbM0higqMf5J3I9zkm0,410 - Est. de tren de S. Cristóbal Industrial,410,2254,Calle transversal sexta (enfrente del colegio Villamadrid),40.3325463,-3.6992665,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1JE61juG8YINiXUbcB1qs5i9,319 - Valdesangil,319,2255,"Calle Valdesangil, 34",40.4684218,-3.7166729,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1WWKePUNZzIohdOqKPmmvhwx,579 - Maria Tubau - Isabel Colbrand,579,2256,"Calle María Tubau, 3",40.51399230680476,-3.671703587033564,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1GRRFyIqHLpTRMgIDUhKe5X2,602 - Monasterio Sobrado - Monasterio Silos,602,2257,"Calle del Monasterio de Sobrado, nº6",40.5093225,-3.6928369999999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1zpJBSmeuyLzfxDuo7ZV41dZ,600 - Centro Deportivo Municipal La Masó,600,2258,Calle Ubeda esquina Plaza Virgen de la capilla,40.4825507,-3.7149566,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1sthg4Mas7UKCuuxqgM1GVwC,566 - Avenida de Logroño,566,2259,"Avenida de Logroño, 112",40.4703472,-3.5815033,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1RfjZVECOjuQrCPzQEcYXmFm,565 - Metro Barajas,565,2260,"Calle Playa de Riazor, 65",40.47563573,-3.5838869,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1sGQQAKtawweM62qr9xrByFd,124 - Metro Bilbao,124,1530,Calle Manuel Silvela nº 20,40.430969,-3.6993695,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1fTCmO5qSsGwnxq6fC8IYtE4,126 - General Álvarez de Castro,126,1532,"Calle del General Álvarez de Castro, 6",40.4345976,-3.7018044,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1f6LosAOwSAg32ZIcc0oCIh5,469 - C. Deportivo Mpal Faustina Valladolid,469,2262,"469 - Ladera de los Almendros, 6",40.40343,-3.6229899999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1uOxGfQHAs1Sgf2YC3g6LeKY,470 - Avenida Real - Galeote,470,2263,"Avenida Real, 3",40.4021519,-3.6063672000000007,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ZS27YLRSnoQbGNZZs578bnZ,274 - Estación Sur Méndez Álvaro A,274,2269,"Calle Méndez Álvaro, 73",40.39675755,-3.6813434600000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ClpGYFYQlTVl3VhEU2ORcNi,567 - Plaza Mayor de Barajas,567,2282,"Plaza Mayor de Barajas, 24",40.4733252,-3.5776537,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1HZTZLb4izvnp5x7MiVWeYut,563 - Soto Hidalgo,563,2283,"Calle soto Hidalgo, 3",40.4606465,-3.5820745,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1LHCA7oQsAWKLPY6f5T2qTE7,281 - Reina Cristina - Julián Gayarre,281,2285,"Paseo de Reina Cristina, 6",40.4067247,-3.6831862,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1tW5YgK3ZFaWI5tzrPjPb7dM,613 - Facultad de informática,613,2389,"Calle José García Santesmases, 9",40.453109,-3.7348129999999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1jAlkvWx9Hsrg4Uf1teZ3M38,615 - Avenida Juan de Andrés 21,615,2390,Avenida Juan de Andrés 21,40.468732,-3.7227890000000006,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1hUkoQ5N8JRgCHj4fqYMZH7n,628  - Calle Arcaute 13,628,2392,"Calle Arcaute 13,  28022 Madrid",40.44358,-3.576652,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1xLnjgqUvWXfPZra4YSq06dg,574 - Chantada,574,2052,"Calle Chantada, 14",40.472695,-3.7106779999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_16aJqSQnKe3SNNiWJAfJscCe,"394 - Periana, 24",394,2060,"Calle Periana, 24",40.36672327,-3.6876580500000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1RjfdRBSuKyZceHOhcC7fSNf,399 - Bohemios - Gigantes y Cabezudos,399,2062,"Calle Bohemios, 1",40.356536,-3.6939009999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1c8285iIoLiV9lGQvvLggExC,507 - Seis - Sexta,507,2054,Calle Seis (esquina con Avenida Quinta),40.44845033,-3.5965029500000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1gSSYgGtEUVbEuNvv2hDRc8F,299 - Rosario Pino - Joan Maragall,299,2055,"Calle Rosario Pino, 17",40.46204955,-3.6919324599999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1KRYAOGG5RQnnMHPxXDtqvGW,300 - Capitan Blanco Argibay - Alfalfa,300,2056,"Calle Capitan Blanco Argibay, 112",40.4667435,-3.7031881999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1JbtN2pPxM0r2veJyb35MJG3,301 - Muller - Capitan Blanco Argibay,301,2057,"Calle Muller, 34",40.46518187,-3.69837565,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1HX7i5uln1weWAJqIwLgcqSb,"396 - Gran Avenida, 27",396,2059,"Gran Avenida, 27",40.36997711,-3.70760649,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1lo7NhmuGu7MzMxnppECUzMY,609 - Metro Ronda de la Comunicación,609,2286,"Ronda de la Comunicación, s/n",40.5157202,-3.6626887,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1HtouDWNoiG2ncq8T7bZx8eN,408 - Metro San Cristóbal,408,2287,"Calle de Moncada, 102",40.341725,-3.692444,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1d7TVdSWe3eEWwIEJqmU8nmq,"409 - Eduardo Barreiros, 114",409,2288,"Calle Eduardo Barreiros, 114",40.3553495,-3.7046436000000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1VGLrZiha6A6rwGtJr0IbHyC,349 - Huerta de Castañeda 26,349,2290,"Calle Huerta de Castañeda, 26",40.40622095698234,-3.74201882097404,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1JyPLpelS8q7oM07UAzdHqRO,544 - Gregorio Sánchez Herráez 14,544,2291,calle Gregorio Sánchez Herráez 14,40.477248,-3.6365700000000003,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1tJOv6GnYzVqkMMty8tRAnWB,551 - Oña,551,2292,Calle Oña s/n,40.4891872,-3.6658565,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1fJRTWKT5T6Z4Q3C5Fuplbpm,552 - Ana de Austria - Ignacio Aldecoa,552,2293,"Calle Ana de Austria, 52",40.4994394,-3.6531502,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_14xSp1HXiWu1oqyHY2i7ryJe,"402 - Berrocal, 9",402,2302,"Calle de Berrocal, 9",40.344115,-3.67615,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_18qTjyjnJmybQrwzcRKVhkff,543 - Tomas Redondo,543,2303,"Calle Tomás Redondo, 9",40.47178414,-3.6291380199999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ntOByaDaKc07oHKxCpg9IhF,277 - Virgen del Puerto,277,2304,"Paseo Virgen del Puerto, 27",40.411622,-3.7211780000000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1fh7OxUdCoWAYcCOFWMyxcqb,581 - Metro Peñagrande,581,2311,"Camino de Ganapanes, 32-40",40.4764797,-3.7163093000000003,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Q7rrLv3wHAuX6rIAPgWVRuf,354 - Jacinto Verdaguer - Lola de Membrives,354,2328,"Calle Jacinto Verdaguer, 12",40.39593854704345,-3.7160526116262793,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1M7wineQsJFk7OuSrGgCi9NS,549 - Francisco Pi y Maragall,549,2330,"Avenida Francisco Pi y Margall, 29",40.4866354,-3.6503543999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1fm5UXTXjHvnbkIPLjUD8mlZ,"407 - Carmen de Burgos, 4",407,2332,"Calle Carmen de Burgos, 4",40.3575459,-3.6847883,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1shkSd4Q1T0diK2UF3HgzOea,"276 - Paseo de las Yeserías, 15",276,2333,"Paseo de las Yeserías, 15",40.39900539,-3.7099166,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1kL7XAPhBTkTBSzpZaBwxg0P,381 - Alfredo Aleix - Mercedes Rodríguez,381,2337,"Calle Alfredo Aleix, 9",40.3684767,-3.7553916,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1XteuOEtp7ZmWTn555h9U4rM,448 - Metro Las Suertes,448,2340,"Avenida Del Ensanche de Vallecas, 80",40.363376,-3.5993520000000006,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1rhug50UDhe97Pm8ySaEYT2D,472 - Metro Valdebernardo,472,2341,"Calle de los Pinillas, 19",40.3987974,-3.6211484999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1UIEipnyO1dMB4PRC72m3nwD,626 - Avenida Victoria Kent 9,626,2384,"Avenida Victoria kent, FRENTE nº 9 esquina C/Mario Moreno Cantiflas",40.401326,-3.564012,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1esntJJmTUOcrk3rSNHZtOmz,624  - Avenida Blas de Lezo 33,624,2386,Avenida Blas de Lezo 33,40.407067,-3.553002,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1eLTziSkcsP7OeNpxeBg4JTI,"594 - Pedro Rico, 49",594,2162,"Calle Pedro Rico, 49",40.48194,-3.7039180000000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1pfdIKMmLaI7D32WCbn3Uaij,542 - Intercambiador de Valdebebas,542,2294,Calle de Juan Antonio Samaranch s/n,40.483962,-3.6157089999999994,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1KDD7BJWTrPmChmycbjM1vYg,621 - Calle Montiel 27,621,2381,Calle Montiel 27,40.381382,-3.672609,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1fPSYGsuW3xclVQ65JXXBacr,EV Puente de Vallecas,8000,2404,"Calle Antonia Calas, 2",40.397661,-3.669224,false,active,virtual
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1sswjirTB0sB1XBooujNQqyp,541 - Metro Pinar del Rey,541,2347,"Avenida Gran Vía de Hortaleza, 68",40.4682706,-3.6468591,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1r6Kx7611g9jwXnn9YR9rC5d,125 - Fdez. de la Hoz - Gral. Martínez Campos,125,1531,Calle Fernández de la Hoz nº 29,40.4353,-3.6948,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1gMpwzzytowrggomaxGm0nqX,131 - Plaza de Juan Zorrilla,131,1537,Calle Bravo Murillo nº 44,40.4417884,-3.7040312299999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_15D5zQXSu32V9IXl8MtyXCM8,132 - Glorieta de Cuatro Caminos,132,1538,"Calle Santa Engracia, 164",40.446377501314885,-3.703605250412747,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1jv3F1oc8BHv2co2SsrJC9J3,202 - Parque de Santander,202,1608,"Calle de Santander, 1",40.4413,-3.7083,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1kEcmATpaKq5xfLmoFz0bvuZ,203 - General Ampudia - San Francisco Sales,203,1609,Calle General Ampudia 2,40.44175,-3.7144722,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1KSBvMxU8e5hw4AmgbDRovtN,205 - Metro Estrecho,205,1611,"Calle Navarra, 1",40.4535,-3.7032776999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1xzA1iqQxWB6d8SY2jPqq3mP,207 - Plaza de la Remonta,207,1613,"Calle Azucenas, 2",40.4630443,-3.6973352000000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1xsw1y62TlZfuGvYSfP5mFsQ,210 - Calle de las Tres Cruces - Gran Vía,210,1616,Calle de las Tres Cruces,40.4196518,-3.7027164000000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_19MOxcKeuUcbTGnHf3WqBBoP,"456 - Encomienda de Palacios, 8",456,1976,"Encomienda de Palacios, 8",40.4005,-3.6464000000000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_16F5UwuNh9CPqvYv5ITfgd8I,"327 - El Greco, 27 - C. Cultural El Greco",327,2044,"Calle El Greco, 27",40.40741199,-3.7472615299999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1X4auUcqWh7f2aeJAQ6RqPaG,524 - Glorieta Luis Rosales,524,1973,Glorieta de Luís Rosales (esquina con López De Hoyos),40.4673,-3.6542999999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_17s3uDGzi5zdktdvR5d8scRl,265 - Puerto Serrano - Embajadores,265,1986,"Calle Puerto Serrano, 1 enfrente del nº 6",40.385412,-3.6884609999999998,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1u9bFGw1bBbx31BJZ9sH7vOZ,485 - Francisco Villaespesa - Ledesma,485,1993,"Calle Francisco Villaespesa, 37",40.4293263,-3.6464629,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1fCsBgU1pxPxlchWf6otzb3X,570 - Uni. Autónoma Madrid - Facul. Medicina,570,1994,"Calle Arzobispo Morcillo, 6",40.4815,-3.6938,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1zhsywmqlMKomw9dQUCqqySM,492 - Metro La Almudena,492,2006,"Fernando Gabriel, 2",40.42466356,-3.6394989099999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1jeQo0Ca3zAvnFjKuHIedY8l,322 - Ps. Jesuitas - Mercado Alto Extremadura,322,2007,"Paseo de los Jesuitas, 69",40.408,-3.7350999999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1DCkCgA4dTBKAJp7JlXOs8T9,392 - Metro Almendrales,392,2008,"Avenida Córdoba, enfrente nº 21",40.38268,-3.697856,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1KfoxBjxDcOg51tBdi6zjVym,"420 - Candilejas, 5",420,2009,"Calle Candilejas, 5",40.38263599,-3.6630038299999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ep1ILblbgfEdQapWsRR8hh4,569 - C. Deportivo Mpal. Vicente del Bosque,569,2013,"Avenida Monforte de Lemos, 13",40.4795,-3.6964999999999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ubsm3UUcBgTae6PvEoKS80G,571 - Melchor Fernández Almagro - Plaza Tuy,571,2014,"Calle Melchor Fernandez Almagro, 80",40.4756475,-3.710326199999999,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1MEhGtj3n7Rqpoh4TPO0Ruwd,"328 - Cebreros, 97",328,2122,"Calle de Cebreros, 97",40.4032379,-3.7521916999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1VNmOFfygxS9WzAvNEAeKWSF,329 - Metro Laguna,329,2123,"Calle Alhambra, 56",40.3988162,-3.7444520800000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1qzrpR67lnZeJU3A9xpgF3OX,330 - Duquesa de Parcent - Marcelino Castillo,330,2124,"Calle Duquesa de Parcent, 14",40.39500224,-3.7447281,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1nYqjZ4mW7r4ioEXWZPvEHFY,331 - Valmojado,331,2125,"Calle Valmojado, 53",40.39649629,-3.75757186,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1gJGhIrc0Vv9fIBvAQhsHIF6,"332 - Los Yébenes, 159",332,2126,"Calle de los Yébenes, 159",40.39302789,-3.75181704,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1TLPADHKKL6wL9WFzK2vydEY,364 - Metro Opañel,364,2128,"Avenida de Oporto, 34",40.38550735,-3.7237806400000006,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_10e8MVRU0F2BKHILf27qpcv3,43 - Jesús y María,43,1447,"Calle Jesús y María, 38",40.4100387,-3.7024709999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1fOfsM58X1vRTMNiEokRIPAx,73 - Plaza de los Astros,73,1475,"Calle de los Astros, nº5",40.4115,-3.6687,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1SKE8564h3BnRQRwHK7kxlVD,536 - Boj,536,2129,"Calle de Boj, 5",40.4560204,-3.6180818,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1tCr7Dmugrbe31OuIj7sSygu,251 - Santa Hortensia - Corazón de María,251,1657,"Calle Santa Hortensia, 31",40.44421,-3.66683,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1IYDYsLAFUXDf7KDhSpu5Xqx,193 - Plaza de las Ventas,193,1599,"Avenida De los Toreros, 49",40.4324722,-3.6655555,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_18tlemeHc2pKPXXE1BfZtS4q,462 - Gallegos - Lavadero Viejo,462,2023,Calle Gallegos 27,40.40240379,-3.6102747000000006,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1FL8tInbxiVvuNpUdX7GlSyz,"505 - Castillo de Uclés, 37",505,2077,"Calle Castillo de Ucles, 37",40.4315255,-3.62306578,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1KxT85odZeDn0FGz4stkLoOX,442 - Santa Eugenia - Zazuar,442,2100,Avenida de Santa Eugenia con Calle Zauzar,40.38305936,-3.60463,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1O4cPEzo9lTlDBWMSlU12aGX,15 - Norte,15,1419,Calle norte nº 10,40.4262383,-3.7074453,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1nPiIim4NTLVvfQcKm9Rb8Mk,32 - Plaza de la Provincia,32,1436,Plaza de la Provincia (esquina calle Gerona),40.4150099,-3.7061032000000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1PyCpRnXlzCdo4AQ7o5UpDiP,44 - Plaza de Nelson Mandela,44,1448,"Plaza Nelson Mandela, 44",40.40979071254635,-3.7038640533106597,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1waIyWWj7ctCR0T55VNyNDl1,85 - Parque del Retiro - Puerta de O´Donnell,85,1488,"Avenida de Menéndez Pelayo, 9",40.4213143,-3.6798909999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1vYvzhLwdjwlrld6xLDgXtn7,96 - Alcalá - Castelló,96,1499,Calle Alcalá nº 111,40.42201515498424,-3.682204798770403,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1JqjLemaWTWyfEdqM7Ikgcm4,109 - Marqués de Salamanca,109,1513,Calle José Ortega y Gasset nº 30,40.4301245,-3.6814521000000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1b9QyD62QlETP7arfClG8VGP,123 - Metro Argüelles,123,1529,Calle Guzmán el Bueno nº 2,40.4306458,-3.7133412,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1MQ6RURbIeSUAofM7G1PAPXV,142 - Bajo elevado de Eduardo Dato,142,1548,Paseo de la Castellana nº 42,40.4334087,-3.6879154,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1gzWn3Fhn3RuB8GZ0BZ3p94I,175 - Jaime el Conquistador - Divino Vallés,175,1581,Calle Jaime el Conquistador nº 30,40.3962264,-3.6983445200000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1KJnwSrprpq7JZOvQ5AXbr6R,189 - Virgen de la Alegría,189,1595,"Calle Virgen de la Alegría, 18",40.4351256,-3.6554918000000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_11Lxg1XTrxZwu44vhBmFNckl,191 - Metro Diego de León,191,1597,"Calle de Alfonso Heredia, 2",40.434569387142616,-3.6740777840614403,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1J2m09dnlR6UmdZ1CKXaptGb,230 - Carlota O´Neill - Agastia,230,1636,"Calle Carlota O'Neill, 30-32",40.4436792,-3.6488254,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_14f024qDKQqI9yDI3WGeI7zW,"238 - San Germán, 5",238,1644,"CalleSan Germán, 5",40.4561825,-3.6932611,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1PKbQBjiziEJCHkVIHeLPPFG,206 - Metro Tetuán,206,1612,"Calle Marqués de Viana, 3",40.46088,-3.69895,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_12yEowSbNk24VVGwz0B67d2n,240 - Brasilia - Parque Breogán,240,1646,"Avenida De Brasilia, 9",40.43666,-3.66096,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1wFOcTb3qKxZ2MMAFOqRe4xl,247 - Zurbano - José Abascal,247,1653,"Calle de Zurbano, 90",40.43837,-3.69281,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1O1ovoAUvvKEcL0XfQaOyvY2,260 - Ciudad Universitaria - Fac. de Biología,260,1666,Facultad de Biología,40.4483322,-3.7272945,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1MUfCaRNzCVAZbkYBImEecih,554 - Metro El Capricho,554,1963,"Calle de Velero, 16",40.453,-3.5940999999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1uACQHLZVESuhqFXGULA4EYn,"529 - Lopez de Hoyos , 478",529,2105,"Calle López de Hoyos, 478",40.47175,-3.649843,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Ep0e5ZPGmGg1AjIgNaSbpJz,369 - Junta Municipal Distrito de Carabanchel,369,2140,"Plaza De la Parroquia, 19",40.3802446,-3.7415832000000004,false,inactive,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1QuG0IHciB5SE3K1uBo2xLNE,"395 - Guetaria, 84B",395,2226,"Calle Guetaria, 84B",40.36916772,-3.71569102,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1EG1u2knkO298OCJhk1zwUxz,289 - Luis de Salazar - Padre Claret,289,2300,"Calle luis de Salazar, 16",40.4474166,-3.6649258000000002,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_198sUAPDSoTpmiaWjA4gEx5s,312 - Metro Batán,312,2317,"Paseo de la Venta, 1",40.4077495,-3.7528559,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1bR0UuB8HBkjUaE5KPWiJ0aD,342 - Osa de la Vega - Rafael Finat,342,2335,"Calle Osa de la Vega, 1",40.374979,-3.7733810000000005,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_12EoGWqnZmVOlVSdPhlFqGMH,"444 - Valderrebollo, 18",444,2339,"Calle Valderrebollo, 18",40.3743481,-3.6276352,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_173bm3OUb9e6ThTUUxA7UUSc,127 - Mercado Municipal de Vallehermoso,127,1533,Calle Fernando el Católico nº 19,40.4338516,-3.708439,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1vzn9jGD6Vg3xoIPWox0e7NE,129 - Metro Alonso Cano,129,1535,"Calle de José Abascal, 33-35",40.4383865,-3.6982353,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1CzWh4lmndf6x94NMuc5trnI,3 - Plaza Conde Suchil,3,1407,"Plaza Conde Surchill, 4",40.4303223,-3.7072537000000003,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1lPYOJhIBnHuLAthEzx86Oqt,29 - Marqués de Cubas,29,1433,Calle del Marqués de Cubas nº 25,40.4163838,-3.6957434000000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1qPSMrmiecsiXC8ZUgBXyrUm,153 - General Perón - Poeta Joan Maragall,153,1559,"Avenida del General Perón, 36",40.4523,-3.6935999999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1xTEfDeg2cJz07I3SJMJ3hvj,156 - Sor Ángela de la Cruz-Paseo Castellana,156,1562,Calle Sor Ángela de la Cruz nº 2,40.4592351,-3.691533,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1859JiamPnJQskhtcYFoQFyx,169 - Glorieta de Pirámides,169,1575,Calle Toledo nº 181,40.401589,-3.713823,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1rjfOYQFlZmQqmgYdq5ZuxEj,196 - Metro Prosperidad,196,1602,"Calle Suero de Quiñones, 4",40.4442237,-3.6752218,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1sngCCO7ZMxUVT9uz8Ryi96B,208 - Intercambiador de Plaza de Castilla,208,1614,"Paseo de la Castellana, 216",40.4662811,-3.6890611,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_19tYXwn8Qi15vQLoe1GLS5xk,416 - Ramírez Tomé,416,1977,"Calle Ramirez Tomé, 33",40.38875618103898,-3.645973936176305,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1xGk74qwmFkyzjPYRrtEmCpx,"353 - Mercedes Arteaga, 21",353,2041,"Calle Mercedes Arteaga, 21",40.39251608002938,-3.7222175704754585,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_17N8F8RmPZJkNbmnLZhsPSqS,397 - Centro Deportivo Municipal Orcasur,397,2061,"Calle Moreja, 30",40.36809336,-3.6983803799999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1nq7LhKmGTBqnMWz5ZPhqnHS,530 - Metro Mar de Cristal,530,2106,"Calle de los Emigrantes, 15",40.4685745,-3.6378834900000006,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Xo0kjatRGdr74okUNmzWgtF,"519 - Troya, 11",519,2157,"Calle Troya, 11",40.43699597,-3.61191521,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1vvbtrlVCuq9oOHFnFilwAR0,150 - Castellana - Hermanos Pinzón,150,2224,"Paseo de la castellana, 124",40.4491,-3.6908,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1iHtb3UxmXkoYWKItq0sGUYL,558 - Biblioteca Pública Mpal. Gloria Fuertes,558,2237,CalleBahía de Cádiz (cruce con Avenida Logroño),40.461137,-3.5937120000000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1kQrHuvTSmDmo3n8Zc8XoxDf,608 - Estella - Camino de Santiago,608,2298,"Calle Estella, 21",40.4968198,-3.6743568,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_101aeCzTwlqHGDrtz5e9ykDI,340 - Illescas - Seseña,340,2334,"Calle Illescas, 1",40.3970983,-3.7656975999999998,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1gyJ9HweHwuN4cnmyAxK7c1C,449 - Metro Congosto,449,2182,"Calle del Pico Chilegua, 3",40.37286701,-3.6186910599999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1d36Sk57Jx0AOaaxDXoDJbyF,604 - Metro Las Tablas,604,2185,"Avenida del Camino de Santiago, 4",40.50910428,-3.6695521499999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ODvY6wK8nA0qB7QQLTiINdx,348 - José de Cadalso - Rafael Finat,348,2186,"Calle José de cadalso, 62",40.37959145,-3.7702477799999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1wFVdNFo5vngAHK8LVtbWLoM,283 - Museo Nacional del Prado,283,2321,"Calle Felipe IV, 5",40.4152082,-3.6919057,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1FM3hDvvdanZmjypw1d4ELbX,468 - Caños de San Pedro - San Cipriano,468,2323,"Calle Caños de San Pedro, 12",40.403472,-3.6019220000000005,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Kz7b7P3BthYthe2iZRRHbDB,414 - Metro Villaverde Bajo-Cruce,414,2325,"Calle Santa Petronila, 7",40.350985,-3.692163,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1uFVrWH62eVQUxSxYKqaMfzO,380 - Oca,380,2326,"Calle de la Oca, 22",40.3894333,-3.7335492000000006,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1gKqBF0ZvaA7lVrnteiq3luq,553 - María Portugal - Niceto Alcalá Zamora,553,2350,"Calle María de Portugal, 44",40.499909,-3.658921,true,unresponsive,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1OlBH0kEhptWtA22DKPWzIYI,610 - Bardegueral,610,2360,"Calle Bardegueral, 16",40.4501721,-3.7719096999999997,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_146KfGrQ4EaOMl9dCBYTLb3X,262 - María de las Mercedes de Borbón B,262,2365,"Calle María de las Mercedes de Borbón, 214",40.4928683,-3.620114,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1QVsnqMh6rgFwbuweoyOhMT3,611 - María de las Mercedes de Borbón A,611,2366,"Calle María de las Mercedes de Borbón, 98",40.490908297996654,-3.6121068531215528,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1A8tf3kunl19emQGNhb5RIqm,2 - Metro Callao,2,1406,Calle Miguel Moya nº 1,40.4204,-3.7056899999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_11wCwdP1KpNuSDKb1Uhe6ugQ,63 - Hospital Gral. Uni. Gregorio Marañón,63,1467,Calle Ibiza nº 64,40.4179237,-3.6708958999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1w9Gu5sLMtl4g94lDlT5SQU0,77 - Plaza del Conde de Casal,77,1479,Plaza del Conde de Casal nº 8,40.4064784,-3.6707132,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_15Cgbd4eorArAna4mxb6Lh3M,89 - Ayala - Conde de Peñalver,89,1492,Calle Ayala nº 104,40.4272582,-3.6752024,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1c1ozkJ850eAQS8mXpaXiq20,116B - Metro Plaza de España,116B,1522,"Calle de los Reyes, nº10",40.423684,-3.71046,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1WDg6OZ6szQJ8gdKPccNIHJv,130 - Metro Ríos Rosas,130,1536,"Calle de Santa Engracia, 129",40.44156,-3.7016399999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1iy0zLsNwLgv6kpOKUmbv8UY,138 - Estación de tren Nuevos Ministerios,138,1544,"Paseo de la Castellana, 63",40.4457414,-3.6914063,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_19X4d4wuQdtJsh4NthoFUrE0,"174 - Paseo de las Yeserías, 45",174,1580,Paseo de Yeserías nº 45,40.39742958306358,-3.7065258846557603,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1iLXbfCLc55CivB2tzLifflX,187 - Alejandro González - Alcalá,187,1593,"Calle de Alejandro González,1",40.4301326,-3.6638249,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_15pvp5oFu25ysaEyYKycFTeo,223 - Ermita del Santo,223,1629,"Paseo de la Ermita del Santo, 48",40.406448,-3.724576,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1qfrPxUeTbSKo9jIyZAu9W3p,587 - Metro Paco de Lucía,587,2118,"Calle Costa Brava, 14",40.49892399,-3.7086574400000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Ea4uVZ58K0sckCJtkqSRs8U,595 - Betanzos - Fermín Caballero,595,2163,"Avenida de Betanzos, 68",40.48178815,-3.7132206,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_17CVh9zjSkQfQJEsKimeeq2r,367 - Metro San Francisco,367,2248,"Calle Albox, 35",40.373972,-3.7398400000000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1AQDvb7zw3IUFIbzwhXPSiqv,446 - C. Deportivo Mpal. Miguel Guillén Prim,446,2251,"Calle Puerto de Porzuna, 34",40.373826,-3.6236297000000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1eXqRPNWnn8oJyYiopaEeGD1,475 - Aurora Boreal - Minerva,475,2268,"Avenida de la Aurora Boreal, 19",40.399236,-3.603668,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1LlW0Bih7tWW94P7ErB1by04,412 - Estación de tren de Puente de Alcocer,412,2278,"Calle San Jenaro, 1",40.3500291,-3.7043083000000006,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1KZtHdRXDJxGUCgKUD9qovFV,7 - Hortaleza,7,1411,Calle Hortaleza nº 75,40.4251906,-3.6977715000000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1KUq7hdi3ujwf8TmShJz8LAI,49 - Casa Encendida,49,1453,Ronda de Atocha nº 34,40.4060533,-3.6992774,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1wMkMrlsy3s0Emr2KhKPTeeN,58 - Metro Chueca,58,1462,Calle Augusto Figueroa nº 33,40.4222783,-3.6978583000000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1YMC1KyU89CiI6QWCvzQPGPU,61 - O'Donnell - Narváez,61,1465,Calle O'Donnell nº 30,40.4214551,-3.6753139,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_175bghdKRjykzzeYHJJxEvBA,70 - Hospital Uni. Infantil Niño Jesús,70,1472,Avenida de Menéndez Pelayo nº 63,40.415382385574716,-3.677872542327878,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_14duVCSq2sSX7GCE81voe4KH,94 - Estación de tren de Recoletos,94,1497,Paseo de Recoletos nº 20,40.4232153,-3.6907560000000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1sbOrqgZl5xKhPw4osRIwjsg,164 - Paseo de las Delicias - Tomás Bretón,164,1570,Paseo de las Delicias nº 94,40.39723,-3.69461,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1wpsmtwj7DTuBNVApGuVWG8j,185 - Parque Quinta de la Fuente del Berro,185,1591,"Calle Sancho Dávila, 35",40.4250833,-3.6615277000000006,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Zj1mA385Z2mgMGA4ruBC4Yj,204 - Doctor Santero - Bravo Murillo,204,1610,"Calle Doctor Santero, 1",40.4476488,-3.7040397,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1bdNdkVz4opN67o9JgQviRBJ,241 - Camilo José Cela,241,1647,"Calle Camilo José Cela, 27",40.4378,-3.6677899999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1rzpC6S0rVtiVkXHuIemW2Ql,254 - Plaza del Perú,254,1660,"Avenida De Pio XII, 3",40.461,-3.6765599999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_15KuhdX1wPKxPsiBU3F9Y4U3,350 - Ervigio - Amalarico,350,1988,"Calle Ervigio, 22",40.3947,-3.7315,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1FEH9tgjjpxhWSkb78RsFowi,308 - María Auxiliadora - Francos Rodríguez,308,2089,"Calle María Auxiliadora, 1",40.45772941,-3.7134614699999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Z4Ije78THfjLQHIHlA9piae,510 - Metro Avenida de Guadalajara,510,2090,"Avenida de Guadalajara, 101",40.42218968,-3.6134619899999993,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1En8koQJ3AT3JaJYsXgtqFyn,"515 - Avenida de Hellin, 13",515,2095,"Avenida de Hellin, 13",40.43091667,-3.61579967,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_16U0PoDYqVr3L45eIOA6qkGz,361 - Metro Pan Bendito,361,2098,"Avenida de Abrantes, 106",40.37734672,-3.73266666,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1IkPuE4vdxsjUSJpvWRAnvqq,585 - Metro Fuencarral,585,2114,"Calle Molins de Rey, 8",40.4954662,-3.69374813,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_14Obf2r1SYzWFFpQ3JW8IP5p,588 - Campo Calatrava - Rda Ingenioso Hidalgo,588,2119,"Av. del Campo de Calatrava, 17",40.50052161,-3.69112254,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1dEHIQNOJ6Mk0yJcVynHaL67,272 - Tejo - Parque La Ronda,272,2305,"Calle del Tejo, 22",40.39663,-3.679186,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1o961G4iAAnwQKVnh3S42lXw,474 - Estación de tren de Vicálvaro,474,2343,"Calle San Cipriano, 71",40.402255,-3.596875,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1TGxLpDFB7Qut0wxHOoAj02x,14 - Ventura Rodríguez,14,1418,"Ventura Rodríguez, 3",40.4260425,-3.7133069,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1xEeMYlOMVA3w096MGwAUeQh,19 - Prim,19,1423,Calle Prim nº 4,40.4218616,-3.6954982999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1v0XMQlSy9pSoQOy3VLiZyO4,82 - Doctor Esquerdo - Metro Conde de Casal,82,1485,"Calle Lira, nº1",40.4084556,-3.6697526,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ICOsegKnGqGlP5N48jht9iA,222 - Eugenio Caxes - Antonio López,222,1628,"Calle Eugenio Caxes, 14",40.3917871,-3.7026789,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Soaqolyx3vrZq0V4mVQPTar,252 - Est. tren Chamartín - Clara Campoamor,252,1658,"Calle Agustín de Foxá, 40",40.4717403,-3.6839695,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Vyf7GdZvmkGnlKxenlbyrUO,619 - Cooperativa Electrica 13,619,2394,Calle Cooperativa Electrica 13,40.374387,-3.6596330000000004,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1L9iPUyxoQs2q3RxTwQecXOI,614 - Biblioteca central de la UNED,614,2396,Calle Senda del Rey 3,40.4356759,-3.7344822999999994,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1KpCnyFS0I1Sa49F1nyfdm6u,5 - Fuencarral,5,1409,Calle Fuencarral nº 106,40.4285212,-3.7021354,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1euHk41EvlTCEYv6Q1Bl81Hp,13 - Conde Duque,13,1417,Calle Conde Duque nº 22,40.4273,-3.7104999999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Xi5njgldWhKixGltqUADGLu,27 - Huertas,27,1431,Calle Jesús nº 6,40.4133,-3.6957000000000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1O5wrl26CAcdareutK9L2pv7,"35 - Doctor Letamendi, 3",35,1439,"Calle del Dr. Letamendi, 3",40.41369072326586,-3.710062961307532,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1CqWJGk1faM0x5vtOZM6vLgo,39 - Plaza de la Cebada,39,1443,Plaza de la Cebada nº 3,40.4112744,-3.7088337,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1rpwpvuSNcPzBqumRtTZi9WB,51 - Ronda de Atocha,51,1455,Ronda de Atocha (esquina con Plaza del Emperador Carlos V),40.40775564657782,-3.6934856312828,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1FKvspOK44vh5AbINn1Dn6N1,6 - Colegio Arquitectos,6,1410,Calle Hortaleza nº 53,40.423178,-3.699023,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1RkrfZKvv6gnRaO2hx4nOnMh,110 - Intercambiador de Moncloa,110,1514,Paseo de Moret nº 1,40.434745,-3.7201021,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Gj6osnw5DakphOhI3Nn4bOe,111B - Metro Moncloa B,111B,1516,Calle Arcipreste de Hita nº 12,40.433913,-3.7177433999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1BGZnlB1O8I7hBoxNfKEhRHV,113 - Teleférico Madrid - Estación Rosales,113,1518,Paseo del Pintor Rosales frente al nº 38,40.427538,-3.7207263,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1kvcZvjYAugfOabsjuPqF0uu,"118 - OFICINA DEL SER, APR Y BICIREGISTRO",118,1524,Calle Juan Martínez el empeciado (esquina calle Bustamante),40.400781,-3.6882407,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1qHiiblz4rs8UV0tVOQrvZn3,122 - Santa Engracia - Zurbarán,122,1528,Calle Santa Engracia nº 14,40.4295362,-3.6963659,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1paL7qQn5kDPyCf47v6VgdH5,135 - Plaza de San Juan de la Cruz,135,1541,"Plaza de San Juan de la Cruz, 10",40.441481,-3.692734,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1T0UIhdg0BO8LIuHvOoqewSk,139 - José Gutiérrez Abascal - Castellana,139,1545,"Calle Pedro de Valdivia, 2",40.43939562033124,-3.690419307270818,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_13lVJfJNjdgSKVTFObPFBfmk,215 - Gutierre de Cetina - Ascao,215,1621,"Calle Gutierre de Cetina, 77",40.429588,-3.6408092999999995,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1dZdfoS8GzppGoWPHrjc8j27,221 - Metro Pavones,221,1627,"Calle Hacienda de Pavones, 148",40.400492026660594,-3.6347444787322485,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1tUcu3RrWnckuQSmaqL5oirK,226 - Sierra Toledana - Camino de Valderribas,226,1632,"Camino Valderribas, 94",40.39901531507069,-3.6607768678037744,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1LIgKFrT9K49dZ2BbsTVaBfm,233 - El dragón de La Elipa,233,1639,"Calle Marqués de Corbera, 12",40.4229522,-3.6555789000000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1thcTA01jChrMbdDbs7gltSq,235 - Sodio - Embajadores,235,1641,"Calle del Sodio, 1B",40.389041,-3.691076,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1Cql76U4RqsXbCvfMwMedWRT,429 - Carlos M. Alvarez - Javier de Miguel,429,2069,"Calle Carlos Martín Álvarez, 38",40.3895,-3.6635,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_16mitWwWid0NO17fu7HCGyem,434 - Charleroi - Cocherón de la Villa,434,2075,"Calle Charleroi, 1",40.38191654,-3.6321937200000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1GsdS0ABjJbVcY6XnC1dkQtH,577 - Monforte de Lemos - Plaza de Mondariz,577,2087,"Avenida de Monforte de Lemos, 103",40.47899993,-3.70566914,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_17gaFJdJDb17IjGjMskPyAne,513 - Centro Deportivo Mpal. Pepu Hernández,513,2093,"Avenida de Niza, 9",40.4271211,-3.6064541399999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_10xbH6PzkJudKvtMSz3UCAHw,"534 - Mesena, 102",534,2116,"Calle Mesena, 102",40.46772408,-3.6634063399999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1r6OOn5lCfvHyxAvMkTVZnLx,363 - Metro Oporto,363,2127,"Avenida de Oporto, 102",40.38745087,-3.72987333,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1BnO3yDNiyFvoMBgJtcD8DAv,"371 - Joaquin Turina, 49",371,2145,"Calle Joaquin Turina, 49",40.372458,-3.7618199999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1xNkHtOCIUUKpP7FjFiJJkcb,377 - Metro Abrantes,377,2153,"Avenida De Abrantes, 55",40.38091762,-3.72783615,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ja48SaOrvxD672j19jhMAkK,593 - Metro Avenida de la Ilustración,593,2161,"Calle Islas Cies, 27",40.48027409,-3.7186906700000004,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_16OCe0tl5ERQP0qJothh2a8x,282 - Parque Retiro - Puerta Reina Mercedes,282,2306,Avenida Menéndez Pelayo enfrente del nº33,40.4181327,-3.6787796,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1TbmN10PdUhsmhqTDA1rOKss,1 - Metro Sol,1,2307,"Calle Mayor , 6",40.416465,-3.7054098,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1bg3IxKFI2ZLX56e1F1yT2IL,318 - C. Deportivo Mpal. José María Cagigal,318,2329,"Calle Santa Pola, 22",40.43205131007265,-3.7370276473602226,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1CCW7M64hUgfYBkfPifsDQPG,601 - Estación de tren de Fuencarral,601,2351,"Calle Antonio de Cabezón, s/n (Estacion Cercanías Fuencarral)",40.5015588,-3.6824686999999994,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1ZgSld9U7p2Pg0afqf1xdLLc,622 - Calle Sierra de Albarracin 2,622,2382,Calle Sierra de Albarracin 2,40.386022,-3.671961,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1yjU5Ib2szwXUQCauZQqvdJe,612 - Calle Rosalia de Castro 1,612,2388,Calle Rosalia de Castro 1,40.480258,-3.734639,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1oFG7yts67enlCGawcFWpTUv,"623  -  Ronda del Sur, esq Santa Rafaela",623,2395,"623 -  Ronda.del Sur, 4",40.37773,-3.6731049999999996,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1MUNCoreTf7OV9aRAR0n63zQ,16 - San Bernardo,16,1420,Calle San Bernardo nº 22,40.4229374,-3.7074808485065,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_18BljxHqtCboEr20kcUIIkqA,20 - Banco de España,20,1424,Calle Alcalá nº 48,40.4188076,-3.6952465,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_10KaDQuXGmJXcoudQlkbyfip,34 - Jacinto Benavente,34,1438,Plaza de Jacinto Benavente,40.4145422,-3.7036883000000005,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1I1j40NHJM7C0t13dzeryVbU,42 - Santa Isabel,42,1446,Calle Santa Isabel 32,40.4108488,-3.6982922,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1uT7wMa7m4oQzb7R15njEbLu,46 - Ribera de Curtidores,46,1450,Calle Ribera de Curtidores nº 28,40.4053153,-3.7071258999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1qtx8Qi2hQVRofi9Yy6QbQQ7,47 - Renfe/Cercanías Embajadores,47,1451,"Glorieta de Embajadores, 7",40.4045772,-3.7027998,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_10N5G50oSXjnWwYRC7tlOSJR,68 - Espalter - Ruiz de Alarcón,68,1470,Calle Espalter nº 3,40.4127692,-3.6913231999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1b57IV3fw41ydQN7bIGMPTYU,69 - Parque del Retiro - Puerta Ángel Caído,69,1471,Avenida de Alfonso XII nº 54,40.409808,-3.688822,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1C8nwr0udRY2G5duHo8LAu6c,71 - Plaza del Doctor Laguna,71,1473,Calle Doce de Octubre nº 28,40.4161,-3.6739,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1M1n85BtG6VMk8q6TveoucWD,166 - Viaducto de Segovia,166,1572,Calle Segovia nº 26,40.41390473235381,-3.713377023313513,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1H6Q2mnVw5znNpgF3Uuk7B6P,194 - Intercambiador de Avenida de América,194,1600,"Calle Francisco Silvela, 87",40.4372638,-3.6771534999999997,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1SKu8YOYdCO5mR4b7v8ncAhX,198 - Metro Rubén Darío,198,1604,"Paseo de las Castellana, 33",40.432,-3.6890999999999994,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1IzRJThKpn6AD0K2hgEaYkj9,419 - Estación de tren de El Pozo,419,2010,"Calle Puerto de Balbarán, 10",40.3762374,-3.655868,false,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1pVvbxeQqA7BTaaieBbRE5Fq,268 - Metro Arganzuela-Planetario,268,2017,"Calle del Cobre, 6",40.39338327980599,-3.689031463575172,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_129zqMZW74iyhpEhFWNFWyNX,486 - Serrano Galvache - Arturo Soria,486,2021,Calle Serrano Galvache 1,40.471382,-3.6679379,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1H27MRGkjNy15WBARrK9hkEN,421 - Arroyo del Olivar - Buenos Aires,421,2024,"Calle Arroyo del Olivar, 63",40.388435,-3.653269,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1CIKg3Ip5aOExOMu7VTSon8O,355 - Intercambiador de Plaza Elíptica,355,2042,"Calle de la Vía, 56",40.3854641,-3.7182338,true,active,physical
+ms_1o0lur0wcE4yDq8EcZTQdJhU,mss_1QocGCKt9GclYoe1ZyMEZGe4,269 - Ariel - Parque Enrique Tierno Galván,269,2064,"Calle Ariel, 11",40.393023802369754,-3.6797017663398797,true,active,physical

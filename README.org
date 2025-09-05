@@ -1,0 +1,22 @@
+
+* Intro
+The idea of this dash application is to provide comparative analysis of Trips provided by Qsek, so we can figure how they deliver on their KPIs. From what ive gathered, their focus has been primarily to avoid empty stations.
+
+* Tasks
+
+** Overview
+
+*** TODO Add simple KPIs
+
+*** TODO Add more complex aggregated KPIs
+** Station
+*** TODO Identify clusters in time by plotting timeseris histogram of provided trips
+
+
+** Trip
+
+*** TODO Having identified clusters, investigate how we are doing things differently
+
+
+** Bike
+

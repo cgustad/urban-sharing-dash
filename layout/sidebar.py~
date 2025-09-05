@@ -1,0 +1,20 @@
+import dash_bootstrap_components as dbc
+from layout.css import SIDEBAR_STYLE
+from dash import html
+
+
+sidebar = html.Div(
+    [
+        html.H2("Urban Sharing", className="display-4"),
+        html.Hr(),
+        html.P("Analysis of maintnace trips"),
+        dbc.Nav(
+            [
+                dbc.NavLink("Overview", href="/", active="exact"),
+                dbc.NavLink("Station", href="/station", active="exact"),
+                dbc.NavLink("Trip", href="/trip", active="exact"),
+                dbc.NavLink("Bike", href="/bike", active="exact"),
+            ],
+        ),
+    ],
+)
