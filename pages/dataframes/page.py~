@@ -1,0 +1,72 @@
+from dash import html, dcc, dash_table, callback, Input, Output
+import dash_bootstrap_components as dbc
+from layout.css import CONTENT_STYLE
+
+# Card style, perhaps make this global
+styles = {
+    'pre': {
+        'border': 'thin lightgrey solid',
+        'overflowX': 'scroll'
+    }
+}
+
+# FIXED WITH STARTUP IN SIDEBAR
+#df = pd.read_csv("assets/trips.csv").sort_values(by=["started_at"])
+
+dataframes_layout = html.Div(
+    children=[
+        html.P(id="dataframes-starter"),
+        dcc.Store(id="dataframes-store"),
+                dbc.Card(
+            [
+                dbc.CardHeader(
+                    [
+                        html.H2("Datafame", className="card-title"),
+                    ]
+                ),
+                dbc.CardBody(
+                    [
+                        dash_table.DataTable(id="dataframes-data-table",
+                                             data=None),
+                    ]
+                )
+            ]
+        ),
+        dbc.Card(
+            [
+                dbc.CardHeader(
+                    [
+                        html.H2("Metadata Dataframes", className="card-title"),
+                    ]
+                ),
+                dbc.CardBody(
+                    [
+                        dcc.Graph(figure= None, id="models-block")
+                        #html.Pre(id="dataframes-file-list", style=styles["pre"])
+                    ]
+                )
+            ]
+        ),
+    ],
+    style=CONTENT_STYLE,
+)
+
+
+@callback(
+    [
+        Output("dataframes-data-table", "data"),
+        Output("dataframes-data-table", "columns"),
+    ],
+    [
+        Input("dataframes-starter", "children"),
+        Input("sidebar-store", "data"),
+    ],
+)
+def load_table(empty, sidebar_df):
+    """
+    Gets starter from content, and dataframe records form sidebar storage element.
+    We extract the column names and the data
+    """
+    column_list = list(sidebar_df[0].keys())
+    columns = [{"name": i, "id": i} for i in column_list]
+    return sidebar_df, columns

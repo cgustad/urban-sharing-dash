@@ -1,7 +1,7 @@
 from dash import Dash, html, dcc, Input, Output
 import dash_bootstrap_components as dbc
 #from pages.model_graph.page import model_layout
-from pages.overview.page import overview_layout
+from pages.dataframes.page import dataframes_layout
 #from pages.overview.page import overview_layout
 from layout.sidebar import sidebar
 from layout.css import CONTENT_STYLE
@@ -16,31 +16,45 @@ app.layout = html.Div(
     [
         dcc.Location(id="url"),
         sidebar,
-        content
+        dcc.Tabs(id="app-tabs",
+                 value="tab-1-overview",
+                 children=[
+                     dcc.Tab(label="Overview", value="tab-1-overview"),
+                     dcc.Tab(label="Station", value="tab-2-station"),
+                     dcc.Tab(label="Bike", value="tab-3-bike"),
+                     dcc.Tab(label="DataFrames", value="tab-4-dataframes"),
+                 ],
+                 style=CONTENT_STYLE,
+                 ),
+        html.Div(id="tab-content",
+                 style=CONTENT_STYLE
+                 ),
     ]
 )
 
 
 # Update content based on sidebar selection
 @app.callback(
-    Output("page-content", "children"),
-    [Input("url", "pathname")])
-def render_page_content(pathname):
-    if pathname == "/":
-        return overview_layout
-    # elif pathname == "/models":
-    #     return model_layout
-    # elif pathname == "/tests":
-    #     return html.P("Oh cool, this is test page!")
-    # # If the user tries to reach a different page, return a 404 message
-    # return html.Div(
-    #     [
-    #         html.H1("404: Not found", className="text-danger"),
-    #         html.Hr(),
-    #         html.P(f"The pathname {pathname} was not recognised..."),
-    #     ],
-    #     className="p-3 bg-light rounded-3",
-    # )
+    Output("tab-content", "children"),
+    [
+        Input("app-tabs", "value")
+    ],
+)
+def render_tab_content(tab):
+    under_construction_img = html.Img(src="assets/under-construction.svg", style={"width": "80%"})
+    incomplete_tab = under_construction_img
+    match tab:
+        case "tab-1-overview":
+            return incomplete_tab
+        case "tab-2-station":
+            return incomplete_tab
+        case "tab-3-bike":
+            return incomplete_tab
+        case "tab-4-dataframes":
+            return dataframes_layout
+        case _:
+            return html.Div("ERROR Unknown tab selected!")
+
 
 # Run the app
 if __name__ == '__main__':

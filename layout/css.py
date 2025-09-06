@@ -16,3 +16,12 @@ CONTENT_STYLE = {
     "margin-right": "2rem",
     "padding": "2rem 1rem",
 }
+
+
+# Card style, perhaps make this global
+CARD_STYLES = {
+    'card': {
+        'border': 'thin lightgrey solid',
+        'overflowX': 'scroll'
+    }
+}
