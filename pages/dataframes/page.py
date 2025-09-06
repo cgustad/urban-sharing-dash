@@ -69,8 +69,9 @@ dataframes_layout = html.Div(
         Output("zones-data-table", "columns"),
     ],
     [
+        # Using Total data, fix to be affected by filters
         Input("dataframes-starter", "children"),
-        Input("sidebar-store", "data"),
+        Input("full-data-store", "data"),
     ],
 )
 def load_table(empty, records_from_csv):
