@@ -24,8 +24,8 @@ sidebar = html.Div(
             end_date=None,
             calendar_orientation='vertical',
         ),
-        # Trip duration
-        html.H5("Trip duration"),
+        # # Trip duration
+        # html.H5("Trip duration"),
         html.H5("State"),
         dcc.Checklist(id="state-checklist"),
         # Data after beeing filtered by universial filter

@@ -1,8 +1,7 @@
 from dash import Dash, html, dcc, Input, Output
 import dash_bootstrap_components as dbc
-#from pages.model_graph.page import model_layout
 from pages.dataframes.page import dataframes_layout
-#from pages.overview.page import overview_layout
+from pages.trip.page import trip_layout
 from layout.sidebar import sidebar
 from layout.css import CONTENT_STYLE
 
@@ -20,9 +19,10 @@ app.layout = html.Div(
                  value="tab-1-overview",
                  children=[
                      dcc.Tab(label="Overview", value="tab-1-overview"),
-                     dcc.Tab(label="Station", value="tab-2-station"),
-                     dcc.Tab(label="Bike", value="tab-3-bike"),
-                     dcc.Tab(label="DataFrames", value="tab-4-dataframes"),
+                     dcc.Tab(label="Trip", value="tab-2-trip"),
+                     dcc.Tab(label="Station", value="tab-3-station"),
+                     dcc.Tab(label="Bike", value="tab-4-bike"),
+                     dcc.Tab(label="DataFrames", value="tab-5-dataframes"),
                  ],
                  style=CONTENT_STYLE,
                  ),
@@ -46,11 +46,13 @@ def render_tab_content(tab):
     match tab:
         case "tab-1-overview":
             return incomplete_tab
-        case "tab-2-station":
+        case "tab-2-trip":
+            return trip_layout
+        case "tab-3-station":
             return incomplete_tab
-        case "tab-3-bike":
+        case "tab-4-bike":
             return incomplete_tab
-        case "tab-4-dataframes":
+        case "tab-5-dataframes":
             return dataframes_layout
         case _:
             return html.Div("ERROR Unknown tab selected!")
