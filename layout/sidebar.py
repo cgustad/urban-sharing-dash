@@ -24,6 +24,8 @@ sidebar = html.Div(
             end_date=None,
             calendar_orientation='vertical',
         ),
+        # Trip duration
+        html.H5("Trip duration"),
         html.H5("State"),
         dcc.Checklist(id="state-checklist"),
         # Data after beeing filtered by universial filter
@@ -91,9 +93,7 @@ def initalize_filters(data):
     return min_start, max_end, min_start, max_end, options, states
 
 @callback(
-    [
-        Output("filtered-by-universial-data", "data"),
-    ],
+    Output("filtered-by-universial-data", "data"),
     [
         Input("full-data-store", "data"),
         Input("date-range-filter", "start_date"),
@@ -124,5 +124,4 @@ def apply_universial_filter(data, min_date, max_date):
         if start_date > min_date and end_date < max_date:
             # Check for filtration condition
             filtered_trips.append(trip_record)
-    pprint(filtered_trips)
     return filtered_trips, station_records, zone_records
