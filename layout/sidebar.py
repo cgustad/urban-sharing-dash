@@ -9,7 +9,10 @@ sidebar = html.Div(
     [
         html.Img(src=img_path, style={"width": "70%"}),
         html.P(id="app-starter"),
+        # Store all data
         dcc.Store(id="full-data-store"),
+        # Data after beeing filtered by filter
+        dcc.Store("filtered-data-store"),
         # Trip filter
         html.H3("Trip filters:"),
         html.Hr(),
@@ -28,13 +31,6 @@ sidebar = html.Div(
         # html.H5("Trip duration"),
         html.H5("State"),
         dcc.Checklist(id="state-checklist"),
-        # Data after beeing filtered by universial filter
-        dcc.Store("filtered-by-universial-data"),
-        html.H3("Tab filters:"),
-        html.Hr(),
-        # To be updated by tab
-        html.Div(id="tab-sidebar-filters"),
-        dcc.Store("fully-filtered-datax")
     ],
     style=SIDEBAR_STYLE,
 )
@@ -85,30 +81,33 @@ def initalize_filters(data):
     # Get dateime
     trip_df["started_at"] = pd.to_datetime(trip_df["started_at"])
     trip_df["ended_at"] = pd.to_datetime(trip_df["ended_at"])
-    min_start = trip_df["started_at"].min()
-    max_end = trip_df["ended_at"].max()
+    min_start = trip_df["started_at"].min().date()
+    max_end = trip_df["ended_at"].max().date()
     # Get state possibilites
     states = list(trip_df["state"].unique())
     options = [{"label": state, "value": state} for state in states]
     return min_start, max_end, min_start, max_end, options, states
 
+
 @callback(
-    Output("filtered-by-universial-data", "data"),
+    Output("filtered-data-store", "data"),
     [
         Input("full-data-store", "data"),
+        # Date filter
         Input("date-range-filter", "start_date"),
         Input("date-range-filter", "end_date"),
-
+        # Checklist filter
+        Input("state-checklist", "value"),
     ],
 
 )
-def apply_universial_filter(data, min_date, max_date):
-    from pprint import pprint
-    # Date only applies to trip data
+def apply_sidebar_filter(data, min_date, max_date, selected_states):
     trip_records, station_records, zone_records = data
-    min_date = datetime.strptime(min_date, "%Y-%m-%dT%H:%M:%S%z").date()
-    max_date = datetime.strptime(max_date, "%Y-%m-%dT%H:%M:%S%z").date()
+    # Date only applies to trip data
+    min_date = datetime.strptime(min_date, "%Y-%m-%d").date()
+    max_date = datetime.strptime(max_date, "%Y-%m-%d").date()
     filtered_trips = []
+    # Filter trips
     for trip_record in trip_records:
         # Extract datetime string
         started_at = trip_record["started_at"]
@@ -119,9 +118,13 @@ def apply_universial_filter(data, min_date, max_date):
             end_date = datetime.strptime(ended_at, "%Y-%m-%d %H:%M:%S%z").date()
         else:
             # If missing, print record and skip
+            from pprint import pprint
             pprint(trip_record)
             continue
-        if start_date > min_date and end_date < max_date:
+        satsfires_date = start_date >= min_date and end_date <= max_date
+        satisfies_states = trip_record["state"] in selected_states
+        if satsfires_date and satisfies_states:
             # Check for filtration condition
             filtered_trips.append(trip_record)
     return filtered_trips, station_records, zone_records
+

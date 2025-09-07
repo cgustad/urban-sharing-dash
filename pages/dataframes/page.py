@@ -1,6 +1,6 @@
 from dash import html, dcc, dash_table, callback, Input, Output
 import dash_bootstrap_components as dbc
-from layout.css import CONTENT_STYLE
+
 
 dataframes_layout = html.Div(
     children=[
@@ -71,7 +71,7 @@ dataframes_layout = html.Div(
     [
         # Using Total data, fix to be affected by filters
         Input("dataframes-starter", "children"),
-        Input("full-data-store", "data"),
+        Input("filtered-data-store", "data"),
     ],
 )
 def load_table(empty, records_from_csv):
@@ -79,6 +79,8 @@ def load_table(empty, records_from_csv):
     Gets starter from content, and dataframe records form sidebar storage element.
     We extract the column names and the data
     """
+    if not records_from_csv:
+        return [], [], [], [] , [], []
     trip_records, station_records, zone_records = records_from_csv
     # Trips
     trip_columns_list = list(trip_records[0].keys())
