@@ -71,17 +71,18 @@ dataframes_layout = html.Div(
     [
         # Using Total data, fix to be affected by filters
         Input("dataframes-starter", "children"),
-        Input("filtered-data-store", "data"),
+        Input("filtered-trip-store", "data"),
+        Input("filtered-station-store", "data"),
+        Input("filtered-zone-store", "data"),
     ],
 )
-def load_table(empty, records_from_csv):
+def load_table(empty, trip_records, station_records, zone_records):
     """
     Gets starter from content, and dataframe records form sidebar storage element.
     We extract the column names and the data
     """
-    if not records_from_csv:
+    if not trip_records and not station_records and not zone_records:
         return [], [], [], [] , [], []
-    trip_records, station_records, zone_records = records_from_csv
     # Trips
     trip_columns_list = list(trip_records[0].keys())
     trip_columns = [{"name": i, "id": i} for i in trip_columns_list]

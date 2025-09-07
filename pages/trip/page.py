@@ -37,15 +37,15 @@ trip_layout = html.Div(
         Output("trip-stations-dropdown", "value"),
     ],
     [
-        Input("filtered-data-store", "data"),
+        Input("filtered-trip-store", "data"),
+        Input("filtered-station-store", "data"),
     ]
 
 )
-def get_stations(filtered_data):
+def get_stations(trip_records, station_records):
     """
     Populate stations dropdown.
     """
-    trip_records, station_records, zone_records = filtered_data
     trip_df = pd.DataFrame.from_records(trip_records)
     start_station_ids = list(trip_df["start_station_id"].unique())
     options = []
@@ -67,12 +67,11 @@ def get_stations(filtered_data):
         Output("station-trips", "columns"),
     ],
     [
-        Input("filtered-data-store", "data"),
+        Input("filtered-trip-store", "data"),
         Input("trip-stations-dropdown", "value"),
     ],
 )
-def create_station_histogram(filtered_data, station_id):
-    trip_records, station_records, zone_records = filtered_data
+def create_station_histogram(trip_records, station_id):
     trip_df = pd.DataFrame.from_records(trip_records)
     station_trip_df = trip_df[trip_df["start_station_id"] == station_id]
     drop_columns = ["Unnamed: 0", "system_id", "vehicle_type_id", "start_latitude", "start_longitude", "end_latitude", "end_longitude"]
