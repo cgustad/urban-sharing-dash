@@ -34,6 +34,7 @@ sidebar = html.Div(
             start_date=None,
             end_date=None,
             calendar_orientation='vertical',
+            minimum_nights=0,
         ),
         html.H5("Trip state:"),
         dcc.Checklist(id="trip-state-checklist"),
